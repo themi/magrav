@@ -1,8 +1,12 @@
+# Mon 23 Nov 2015
+GaNS is now a runny paste - placed lids on for storage. (photo: 20151123-GaNS-storage)
+
 # Thurs 19 Nov 2015
 09:00 Green/blue colour dust is now settling on top of the orange/red dust, I am now refereing to the dust, of any colour, GANS.
 18:00 Extract, with sringe, as much GANS as possible and place into smaller container for rinsing (Photo: 20151119-1st-GANS)
 20:00 Using same plates in same water adding 1.5v battery between plates and pumping air into the water. (Photo: 20151119-battery-and-pump)
 20:30 Green colour appearing in water (Photo: 20151119-still-harvesting)
+09:00 Scoop up GaNS (with siringe) store in small containers. Rinsed with distilled water 2/3 times. Extract as much water as possible, then left container open to allow evapouration. (photo: 20151119-cleaned-evapourating)
 
 # Wed 18 Nov 2015
 09:00 Allow to sit with wires only connected to each plate
