@@ -1,3 +1,15 @@
+#### Brass plate
+> Brass is a metal alloy made of copper and zinc.  Brass plates are used as cathodes in the production of GANS.
+
+#### Copper plate
+> Brass is a metal alloy made of copper and zinc.  (Nanocoated) copper plates are used as anodes in the production of GANS.
+
+#### Anode
+> An anode is an electrode through which conventional current flows into a device.
+
+#### Cathode
+> A cathode is an electrode through which conventional current flows out of a device.
+
 #### Magrav
 > Magnetic and gravitational fields (Magnetic referring to the plasma of magnetic fields created by a dynamic entity as for example this refers to the magnetic field of the earth)
 
