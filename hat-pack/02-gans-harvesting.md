@@ -1,6 +1,6 @@
-## GaNS harvesting
+## GANS harvesting
 
-The purpose of this step is to produce GaNS.  GaNS is needed to coat Mag/Grav coils, construct capacitor coils, and serve as a central power source for completed Mag/Grav coil sets.  
+The purpose of this step is to produce GANS.  GANS is needed to coat Mag/Grav coils, construct capacitor coils, and serve as a central power source for completed Mag/Grav coil sets.  
 
 ### Ingredients
 * Nanocoated coppper plate
@@ -36,15 +36,15 @@ The purpose of this step is to produce GaNS.  GaNS is needed to coat Mag/Grav co
   - Connect (-) of battery to the nanocoated copper plate.
 
 * add air pump
-  - oxygen is important in the GaNS process, GaNS colour will be bright turquiose in colour when oxygen is present.
-  - GaNS will be brown in colour when there is insufficent enough oxigen present in water.
+  - oxygen is important in the GANS process, GANS colour will be bright turquiose in colour when oxygen is present.
+  - GANS will be brown in colour when there is insufficent enough oxigen present in water.
 
 * run for 6-8 hours
 
 #### Harvest
 
-* Siringe the GaNS 
-  - put the siringe tip into the GaNS at the bottom of the container and extend the siringe to suck up the material.
+* Siringe the GANS 
+  - put the siringe tip into the GANS at the bottom of the container and extend the siringe to suck up the material.
   - place into the rinsing container
 
 * let the GaNs settle
@@ -57,12 +57,12 @@ The purpose of this step is to produce GaNS.  GaNS is needed to coat Mag/Grav co
 
 * repeat rinsing 2-3 times.
 
-* dry the GaNS
-  - place GaNS into storage container
+* dry the GANS
+  - place GANS into storage container
   - leave lid off  for 2/3 days (place under a heat lamp to make it fry faster)
  
 * Store it
-  - once GaNS is the consitency of running paste, replace lid and store for later use.
+  - once GANS is the consitency of running paste, replace lid and store for later use.
 
 #### Go again
 
@@ -71,7 +71,7 @@ Depending on the size of your plates you can rerun again 1 or 2 times.  When the
 
 ## Summary
 
-You will need a min of 600ml+ of GaNS before you start making your power unit, I recommend that you keep producing GaNS right up to point where you complete your power unit to ensure you have sufficient quantity. 
+You will need a min of 600ml+ of GANS before you start making your power unit, I recommend that you keep producing GANS right up to point where you complete your power unit to ensure you have sufficient. 
 
 May the plasma be with you.
 

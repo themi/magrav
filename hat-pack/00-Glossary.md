@@ -4,7 +4,7 @@
 #### Nano coating
 > A coating whose thickness is measured on the nano scale.  Nano coating is the result of an application where nano structures build a consistent network of molecules on a surface. 
 
-#### GaNS
+#### GANS
 > a new state of matter; a molecule of a gas (GAs) which becomes Nano of itself and appears as Solid state of matter. GAs to Nano of Solid and to be called GANS for short.
 
 #### Tin snips
@@ -20,4 +20,4 @@
 > A voltmeter is an instrument used for measuring electrical potential difference between two points in an electric circuit. Analog voltmeters move a pointer across a scale in proportion to the voltage of the circuit; digital voltmeters give a numerical display of voltage by use of an analog to digital converter.
 
 #### Power Unit
-> Keshe Foundation Magrav Power Unit.  A unit created from nanocoated copper wire (coils) and GaNS that when connected to a power source produce plasma energy.
+> Keshe Foundation Magrav Power Unit.  A unit created from nanocoated copper wire (coils) and GANS that when connected to a power source produce plasma energy.
