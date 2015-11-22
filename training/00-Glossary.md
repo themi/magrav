@@ -1,11 +1,11 @@
 #### Magrav
-> (TM) Kesh Foudation and is coined from the words Magnetic and Gravitional.  These are the two primary fields than bind electrons, protons and netrons.  It is also the same fields that binds suns and planets.  It also binds galaxies and universes.  The word "plasma" and "ether" are used to refer to combined effect of these fields. 
+> Magnetic and gravitational fields (Magnetic referring to the plasma of magnetic fields created by a dynamic entity as for example this refers to the magnetic field of the earth)
 
 #### Nano coating
 > A coating whose thickness is measured on the nano scale.  Nano coating is the result of an application where nano structures build a consistent network of molecules on a surface. 
 
 #### GaNS
-> Gas as a Nano State.  
+> a new state of matter; a molecule of a gas (GAs) which becomes Nano of itself and appears as Solid state of matter. GAs to Nano of Solid and to be called GANS for short.
 
 #### Tin snips
 > Snips, also known as shears, are hand tools used to cut sheet metal and other tough webs. There are two broad categories: tinner's snips, which are similar to common scissors, and compound-action snips, which use a compound leverage handle system to increase the mechanical advantage.
@@ -22,4 +22,3 @@
 
 #### Power Unit
 > Keshe Foundation Magrav Power Unit.  A unit created from nanocoated copper wire (coils) and GaNS that when connected to a power source produce plasma energy.
-
