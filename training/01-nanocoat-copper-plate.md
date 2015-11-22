@@ -23,9 +23,9 @@ The purpose of this step is to prepare a copper plate for the GaNS harvesting pr
   - that the part remaining outside the saltwater can be a easily connected by wire or alligator clip 
 
 Note: 
-> After the plate has been nanocoated you should not handle plate with bare hands or ruin coating with tools. 
-> Body oil has your Mag/Grav signature in it, allowing your body oil to get on nanocoating or GaNS with yield unpredictable results.
-> Completely prepare the copper plate for the GaNS harvest process before continuing
+> After the plate has been nanocoated you should not handle plate with bare hands or ruin coating with tools.  
+> Body oil has your Mag/Grav signature in it, allowing your body oil to get on nanocoating or GaNS with yield unpredictable results.  
+> Completely prepare the copper plate for the GaNS harvest process before continuing.  
 
 * Place mesh/tray into the steam bath container.
   - mesh may need to be shaped so it fits in the container and keeps the plates 2cm or more, above the level of the boiling caustic water.
