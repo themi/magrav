@@ -3,8 +3,10 @@
 The purpose of this step is to prepare a copper plate for the GANS harvesting process.  We using  copper because of its unique qualities and an economical way to get up and running, later you can experiment with other materials.
 
 ### Ingredients
-  - tin snips or electric hand drill with 4mm bit
   - copper plate 150x75x0.5mm
+  - tin snips or electric hand drill with 4mm bit
+  - side cutters
+  - needle nose pliers
   - caustic soda crystals
   - boiling (distilled) water
   - steam bath container with lid
@@ -27,7 +29,7 @@ Note:
 > Completely prepare the copper plate for the GANS production phase before continuing.  
 
 * Place mesh/tray into the steam bath container.
-  - mesh may need to be shaped so it fits in the container and keeps the plates 2cm or more, above the level of the boiling caustic water.
+  - mesh may need to be shaped (using wire cutters and/or needle nose pliers) so it fits in the container and keeps the plates 2cm or more, above the level of the boiling caustic water.
 
 * Put on your protective clothing
 

@@ -33,3 +33,9 @@
 
 #### Power Unit
 > Keshe Foundation Magrav Power Unit.  A unit created from nanocoated copper wire (coils) and GANS that when connected to a power source produce plasma energy.
+
+#### Side cutters
+> Pliers with cutting jaws at an angle to the handles to permit cutting off wires close to terminals.
+
+#### Needle nose pliers
+> (also known as pointy-nose pliers, long-nose pliers, pinch-nose pliers or snipe-nose pliers) are both cutting and holding pliers used by artisans, jewelry designers, electricians, network engineers and other tradesmen to bend, re-position and snip wire
