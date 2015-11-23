@@ -65,7 +65,7 @@ Note:
 * Partially replace the lid
 
 * Add boiling distilled water
-  - cover the crystals completely this time a little less water.
+  - cover the crystals completely this time using a little less water than last time.
 
 * Secure the lid and wait until liquid has completely cooled. 
 
@@ -74,27 +74,32 @@ Note:
 
 
 #### Drying
-* Remove tray and copper plate 
+* Remove mesh/tray and copper plate 
 
 * Pour out most of the liquid into your castic storage bottle/container
-  - leave a small amount of liquid, the drying process should be down slowly
+  - leave a small amount of liquid in the container, the drying process should be done gradually
 
 * Replace mesh/tray and copper plate
 
-* replace lid but leave slightly open so the air is allowed to escape from the container.
+* replace lid but leave slightly open so evapouration can occur.
 
 * Wait for 6 hours
 
 * Bleed charge off the plate
-  - use a volt meter set to 200DCV with one probe on the plate and one on a connecting mesh or tray
+  - use a volt meter set to 200m DCV with one probe on the plate and one on a connecting mesh or tray
   - maintain for about 10 sec, change postion occaisionally
   - the meter will sway a lot, going up and down the scale
   - donot touch plate with bare hands
 
-* partially replace the lid and wait another 6 hrs
+* Replace the lid leaving slightly open and wait another 6 hrs
 
 * repeat bleeding process
-  - continue this step for at least 2 days, preferably 3 days. 
+  - continue this step for at least 2 days, preferably 3 days
+
+* All done
+  - plate will have a deep black colour all over and be quite dry
+  - there may be patches of not so deep black colour
+  - wearing latex gloves, then handling the plate, the nano coating will be firmly attached to the plate and not rub off.
 
 
 ## Summary
