@@ -97,8 +97,8 @@ Note:
   - continue this step for at least 2 days, preferably 3 days
 
 * All done
-  - plate will have a deep black colour all over and be quite dry
-  - there may be patches of not so deep black colour
+  - plate will have a deep black colour all over and be quite dry, there may be patches of not so deep black colour
+  - there will be salt (Na) deposits on the plate which came from the caustic soda (NaOH), rinse this off with distilled water (cold) prior to using in next step
   - wearing latex gloves, then handling the plate, the nano coating will be firmly attached to the plate and not rub off.
 
 

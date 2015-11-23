@@ -37,8 +37,9 @@ The purpose of this step is to produce GANS.  GANS is needed to coat Mag/Grav co
   - The current from battery is actually a bit on the high side, if you want to be perdantic you could install a resistor on this circut to regulate the current down to optimum of 15-30mA.
 
 * add air pump
-  - oxygen is important in the GANS process, GANS colour will be bright turquiose in colour when oxygen is present.
-  - GANS will be brown in colour when there is insufficent enough oxigen present in water.
+  - oxygen is important in the GANS process, GANS will be bright turquiose in colour when oxygen is present.
+  - GANS will be brown in colour when there is insufficent oxygen.
+  - when not using a battery the process is quite slow and oxygen is pulled from the air above the water.
 
 * run for 4-7 hours
 

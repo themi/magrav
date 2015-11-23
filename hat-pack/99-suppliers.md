@@ -46,5 +46,7 @@
 * Wire mesh
 * Plastic containers
 * Electrical wire
-* Hand Drills
+* Hand Drill
 * Tin Snips 
+* Side cutters
+* Neddle nose pliers
