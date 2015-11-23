@@ -1,6 +1,6 @@
 ## Nanocoat copper plates
 
-The purpose of this step is to prepare a copper plate for the GANS harvesting process.  We using  copper because of its unique qualities and a economical way to get up and running, later you can experiment with other materials.
+The purpose of this step is to prepare a copper plate for the GANS harvesting process.  We using  copper because of its unique qualities and an economical way to get up and running, later you can experiment with other materials.
 
 ### Ingredients
   - tin snips or electric hand drill with 4mm bit
@@ -17,14 +17,14 @@ The purpose of this step is to prepare a copper plate for the GANS harvesting pr
 
 ### Procedure
 
-* Prep copper plate - use your drill or tin snips so:
-  - copper plate can be suspended slightly out from the side of your GANS harvesting container
-  - that the part remaining outside the saltwater can be a easily connected by wire or alligator clip 
+* Prep copper plate for use in the GANS production phase - using drill or tin snips:
+  - craft the copper plate so that it can be suspended slightly away from the side of your GANS harvesting container, and
+  - so that the part remaining above the saltwater can be a easily connected by wire or alligator clip. 
 
 Note: 
 > After the plate has been nanocoated you should not handle plate with bare hands or ruin coating with tools.  
 > Body oil has your Mag/Grav signature in it, allowing your body oil to get on nanocoating or GANS with yield unpredictable results.  
-> Completely prepare the copper plate for the GANS harvest process before continuing.  
+> Completely prepare the copper plate for the GANS production phase before continuing.  
 
 * Place mesh/tray into the steam bath container.
   - mesh may need to be shaped so it fits in the container and keeps the plates 2cm or more, above the level of the boiling caustic water.
