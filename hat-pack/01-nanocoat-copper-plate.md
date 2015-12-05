@@ -108,5 +108,5 @@ You can prepare several plates or just just keep repeating this process as and w
 
 The end goal is to make your first Power Unit.  Once it is up and running you will nolonger need to nanocoat with caustic soda, you can use your power unit to nanacoat coppper or other materials.
 
-May the Plasma be with you!
+May the Plasma be with you.
 

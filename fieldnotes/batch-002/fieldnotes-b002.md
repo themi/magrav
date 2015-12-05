@@ -1,3 +1,6 @@
+# Sat 5 Dec 2015
+- 14:15 - AA Bty (-ve) to nanocoated copper and (+ve) to bare brass, air pump
+- 11:20 - 15% saline, bare brass, nanocoated copper connected by wire
 
 # Mon 23 Nov 2015
 - 07:00 Bleed charge

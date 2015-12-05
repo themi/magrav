@@ -34,7 +34,7 @@ The purpose of this step is to produce GANS.  GANS is needed to coat Mag/Grav co
 * connect a 1.5V source.
   - Connect batteries (+) pole to the brass plate.
   - Connect batteries (-) pole to the nanocoated copper plate.
-  - The current from battery is actually a bit on the high side, if you want to be perdantic you could install a resistor on this circut to regulate the current down to optimum of 15-30mA.
+  - The current from battery is actually a bit on the high side, if you want to be perdantic you could install a resistor on this circut to regulate the current down to 15-30mA
 
 * add air pump
   - oxygen is important in the GANS process, GANS will be bright turquiose in colour when oxygen is present.
@@ -68,7 +68,7 @@ The purpose of this step is to produce GANS.  GANS is needed to coat Mag/Grav co
 
 #### Go again
 
-Depending on the size of your plates you can rerun again 1 or 2 times.  When the water becomes unusually misty, then swap out the plates for a new set. 
+Depending on the size of your plates you can rerun again 1 or 2 times.  When the water becomes unusually misty, then reset your setup. 
 
 
 ## Summary

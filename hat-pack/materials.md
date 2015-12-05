@@ -44,31 +44,8 @@
 ## Tools
 
 #### Mandrel/Rod
-* [1.5mm dia wire](https://www.aemetal.com.au/Webstore/p-67-copper-round-wire-15mm-bulk-minimum-qty-1kg.aspx)
-  - Rods: 5mm / 9mm
-  - Overall dia of 12mm
-
-* [0.5mm dia wire](https://www.aemetal.com.au/Webstore/p-64-copper-round-wire-05mm-bulk-minimum-qty-1kg.aspx)
-  - Rods: 3mm / 5mm
-  - Overall dia of 6mm
-
-Set screw shaft collar??
-
-Rod Supplier: PRECISION METALS (NSW) PTY LTD
-Phone: 02 9533 7722
-Bank Acct: 012372 349515429
-
->> a. SS3 Silver Steel Stubs Erasteel 1 metre length 3mm - $6.21/m
->> b. SS7 Silver Steel Stubs Erasteel 1 metre length 7mm - $16.56/m
->> c. SS5 Silver Steel Stubs Erasteel 1 metre length 5mm - $9.8/m
->> d. SS9 Silver Steel Stubs Erasteel 1 metre length 9mm - $25.63/m
-
 #### Drill bit (metal)
-* 4mm
-* 6mm
-
 #### Electric Hand Drill
-
 #### Wire cutters
 
 #### Protective clothing
