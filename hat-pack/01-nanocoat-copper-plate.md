@@ -9,7 +9,7 @@ The purpose of this step is to prepare a copper plate for the GANS harvesting pr
   - needle nose pliers
   - caustic soda crystals
   - boiling (distilled) water
-  - steam bath container with lid
+  - steam bath container (plastic, glass or ceramic) with lid
   - mesh/tray
   - protective clothing, rubber gloves and eye protection
   - storage bottle for used caustic liquid
@@ -18,95 +18,48 @@ The purpose of this step is to prepare a copper plate for the GANS harvesting pr
 
 
 ### Procedure
+* Hot caustic bath
+* Caustic steam bath
+* Drying
 
-* Prep copper plate for use in the GANS production phase - using drill or tin snips:
-  - craft the copper plate so that it can be suspended slightly away from the side of your GANS harvesting container, and
-  - so that the part remaining above the saltwater can be a easily connected by wire or alligator clip. 
+#### Hot caustic bath
+This step prepares the copper for nanocaoting.  Simply place copper into a boiling bath of caustic soda for 3-4 hours.
+
+Alternatively place a generous quantity dry caustic soda crystals into a plastic (ceramic or glass) container, completely covering the bottom.  Put a stainless steel mess over it so the copper doesnt touch the caustic crystals then place copper onto mesh. Pour in enough boiling water into the container so the copper is submersed and quickly replace the lid of the contatiner.  CAUTION hot water reacts violently with caustic.  Then leave to cool down (24 hours)
+
+Don't throw away the liquid caustic, store it for later use.
 
 Note: 
 > After the plate has been nanocoated you should not handle plate with bare hands or ruin coating with tools.  
-> Body oil has your Mag/Grav signature in it, allowing your body oil to get on nanocoating or GANS with yield unpredictable results.  
-> Completely prepare the copper plate for the GANS production phase before continuing.  
-
-* Place mesh/tray into the steam bath container.
-  - mesh may need to be shaped (using wire cutters and/or needle nose pliers) so it fits in the container and keeps the plates 2cm or more, above the level of the boiling caustic water.
-
-* Put on your protective clothing
-
-* Add caustic crystals.
-  - completely cover the bottom of the container, be generous.
-
-* Place copper plate onto the mesh/tray
-
-* Partially replace the lid
-
-* Add boiling distilled water
-  - pour the boiling water in the slit of the partially open lid
-  - CAUTION violent reaction will occur
-  - cover the crystals completely but donot fill above the mesh/tray
-
-* Secure the lid 
-  - wait until liquid has completely cooled this will take a 2-5 hours.
-
-* Remove the mesh/tray (with copper plate on it)
-  - Caution when opening lid, the gases are toxic. 
-  - Careful with tray so as not touch or ruin the copper plate
-
-* Pour the cooled caustic liquid into a storage bottle/container for later use.
-
+> Body oil has your personal Mag/Grav signature in it, allowing your body oil to get on nanocoating or GANS with yield unpredictable results.
+> Completely prepare the copper plate for the GANS production phase before continuing - prepare it so it can be suspended in liquid as you an eletrolysis anode or cathode.
 
 #### Steaming
-* Add caustic
-  - this time just barely cover the bottom.
+This step nanocoats the copper by suspending the copper in the fumes of caustic liquid for 24 hours.
 
-* Replace mesh/tray and copper plate.
-  - rotate the copper plate so the other side gets direct caustic exposure 
+Alternatively place a small quantity dry caustic soda crystals into a plastic (ceramic or glass) container, covering the bottom.  Put a stainless steel mess over it so the copper is kept out of the caustic liquid (once water is poured in) then place copper onto mesh or suspend from sides of container.  Pour in enough boiling water to cover the caustic crystals and quickly replace the lid of the contatiner.  CAUTION hot water reacts violently with caustic.  Then leave for 24 hours.
 
-* Partially replace the lid
+Every 6 hours touch the copper with voltmeter electrodes (set to 200m DCV).  The reason for this step is to put a small charge across the copper so that the nanocoating all aligns in the same direction therefore apply the red/black electrodes in the same way each time.  For coils: black electrode to magnetic terminal and red electrode to gravetic terminal.
 
-* Add boiling distilled water
-  - cover the crystals completely this time using a little less water than last time.
+Don't throw away the liquid caustic, store it for later use.
 
-* Secure the lid and wait until liquid has completely cooled. 
-
-* repeat steaming at least one more time (more if you think its needs it)
-  - if there are any areas where nanacoating (black layering) is not yet taken hold or you have scrapped some off, then fine spray that area with the used caustic you saved from previous steps, and continue steaming. 
+You may nancoat as many times as you like.  If the copper is for harvesting GANS then the more layers the better.
 
 
 #### Drying
-* Remove mesh/tray and copper plate 
+This step is simply to dry the copper of any caustic liquid.  This should be done very slowly, over a period of 24-36 hours. 
 
-* Pour out most of the liquid into your castic storage bottle/container
-  - leave a small amount of liquid in the container, the drying process should be done gradually
+Place a a small amount of cool caustic liquid in the bottom of your container and suspend the cooper oin the container with the lid slightly open.
 
-* Replace mesh/tray and copper plate
-
-* replace lid but leave slightly open so evapouration can occur.
-
-* Wait for 6 hours
-
-* Bleed charge off the plate
-  - use a volt meter set to 200m DCV with one probe on the plate and one on a connecting mesh or tray
-  - maintain for about 10 sec, change postion occaisionally
-  - the meter will sway a lot, going up and down the scale
-  - donot touch plate with bare hands
-
-* Replace the lid leaving slightly open and wait another 6 hrs
-
-* repeat bleeding process
-  - continue this step for at least 2 days, preferably 3 days
-
-* All done
-  - plate will have a deep black colour all over and be quite dry, there may be patches of not so deep black colour
-  - there will be salt (Na) deposits on the plate which came from the caustic soda (NaOH), rinse this off with distilled water (cold) prior to using in next step
-  - wearing latex gloves, then handling the plate, the nano coating will be firmly attached to the plate and not rub off.
-
+Every 6 hours touch the copper with voltmeter electrodes (set to 200m DCV).  Nanolayering is still occurring so keep this step in.
 
 ## Summary
 
 You can prepare several plates or just just keep repeating this process as and when more are needed.
 
-The end goal is to make your first Power Unit.  Once it is up and running you will nolonger need to nanocoat with caustic soda, you can use your power unit to nanacoat coppper or other materials.
+The end goal is to make your first Power Unit.  Once it is up and running you will nolonger need to nanocoat with caustic soda, you can use your power unit to nanacoat the coppper (or other materials).
+
+The copper will have a deep black/blue colour all over.  There will be salt (Na) deposits on the plate which came from the caustic soda (NaOH), rinse this off with warm distilled water and air dry prior to using.
 
 May the Plasma be with you.
 
