@@ -23,15 +23,13 @@ The purpose of this step is to prepare a copper plate for the GANS harvesting pr
 * Drying
 
 #### Hot caustic bath
-This step prepares the copper for nanocaoting.  Simply place copper into a boiling bath of caustic soda for 3-4 hours.
+This step prepares the copper for nanocaoting.  Simply place copper into a boiling bath (40-50C) of caustic soda for 30-40 minutes.
 
-Alternatively place a generous quantity dry caustic soda crystals into a plastic (ceramic or glass) container, completely covering the bottom.  Put a stainless steel mess over it so the copper doesnt touch the caustic crystals then place copper onto mesh. Pour in enough boiling water into the container so the copper is submersed and quickly replace the lid of the contatiner.  CAUTION hot water reacts violently with caustic.  Then leave to cool down (24 hours)
+Alternatively place a generous quantity dry caustic soda crystals into a plastic (ceramic or glass) container, completely covering the bottom.  Put a stainless steel mess over it so the copper doesnt touch the caustic crystals then place copper onto mesh. Pour in enough boiling water into the container so the copper is submersed and quickly replace the lid of the contatiner.  CAUTION hot water reacts violently with caustic.  Then leave to cool down (6-12 hours)
 
 Don't throw away the liquid caustic, store it for later use.
 
 Note: 
-> After the plate has been nanocoated you should NOT handle plate with bare hands or ruin coating with tools.  
-> Body oil has your personal Mag/Grav signature in it, allowing your body oil to get on nanocoating or GANS with yield unpredictable results.
 > Completely prepare the copper plate for the GANS production phase before continuing - prepare it so it can be suspended in liquid as you would an eletrolysis anode or cathode.
 
 #### Steaming
@@ -45,13 +43,19 @@ Don't throw away the liquid caustic, store it for later use.
 
 You may nancoat as many times as you like.  If the copper is for harvesting GANS then the more layers the better.
 
+Note: 
+> After the plate has been nanocoated you should NOT handle copper with bare hands or ruin coating with tools.  
+> Body oil has your personal Mag/Grav signature in it, allowing your body oil to get on nanocoating or GANS will yield unpredictable results.
 
 #### Drying
-This step is simply to dry the copper of any caustic liquid.  This should be done very slowly, over a period of 24-36 hours. 
+This step is simply to dry the copper of any moisture.  This should be done very slowly, over a period of 24-36 hours. 
 
-Place a a small amount of cool caustic liquid in the bottom of your container and suspend the cooper oin the container with the lid slightly open.
+Place a a small amount of cool caustic liquid in the bottom of your container and suspend the copper in the container with the lid slightly open.
 
 Every 6 hours touch the copper with voltmeter electrodes (set to 200m DCV).  Nanolayering is still occurring so keep this step in.
+
+Note: 
+> You can reset nanocoated copper by heating (gas burner for example) it until it just about turns red hot, then quickly dip in cold water.  The Nanocoating will drop off into the cold water.  You can restart the nancoating process from the beginning.  DONT THROW away the nanocoating that remains in the water, keep it for later use.
 
 ## Summary
 
@@ -59,7 +63,7 @@ You can prepare several plates or just just keep repeating this process as and w
 
 The end goal is to make your first Power Unit.  Once it is up and running you will nolonger need to nanocoat with caustic soda, you can use your power unit to nanacoat the coppper (or other materials).
 
-The copper will have a deep black/blue colour all over.  There will be salt (Na) deposits on the plate which came from the caustic soda (NaOH), rinse this off with warm distilled water and air dry prior to using.
+The copper will have a deep black/blue colour all over.  There will be salt (Na) deposits on the plate which came from the caustic soda (NaOH), rinse this off with warm distilled water and air dry before using.
 
 May the Plasma be with you.
 
