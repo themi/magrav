@@ -30,9 +30,9 @@ Alternatively place a generous quantity dry caustic soda crystals into a plastic
 Don't throw away the liquid caustic, store it for later use.
 
 Note: 
-> After the plate has been nanocoated you should not handle plate with bare hands or ruin coating with tools.  
+> After the plate has been nanocoated you should NOT handle plate with bare hands or ruin coating with tools.  
 > Body oil has your personal Mag/Grav signature in it, allowing your body oil to get on nanocoating or GANS with yield unpredictable results.
-> Completely prepare the copper plate for the GANS production phase before continuing - prepare it so it can be suspended in liquid as you an eletrolysis anode or cathode.
+> Completely prepare the copper plate for the GANS production phase before continuing - prepare it so it can be suspended in liquid as you would an eletrolysis anode or cathode.
 
 #### Steaming
 This step nanocoats the copper by suspending the copper in the fumes of caustic liquid for 24 hours.

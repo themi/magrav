@@ -16,6 +16,9 @@
 #### Nano coating
 > A coating whose thickness is measured on the nano scale.  Nano coating is the result of an application where nano structures build a consistent network of molecules on a surface. 
 
+#### Eletrolysis
+> Physical Chemistry. the passage of an electric current through an electrolyte with subsequent migration of positively and negatively charged ions to the negative and positive electrodes. [Wiki Reference](https://en.wikipedia.org/wiki/Electrolysis)
+
 #### GANS
 > a new state of matter; a molecule of a gas (GAs) which becomes Nano of itself and appears as Solid state of matter. GAs to Nano of Solid and to be called GANS for short.
 
