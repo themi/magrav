@@ -1,6 +1,6 @@
 ## Nanocoat copper plates
 
-The purpose of this step is to prepare a copper plate for the GANS harvesting process.  We using  copper because of its unique qualities and an economical way to get up and running, later you can experiment with other materials.
+The purpose of this step is to prepare a copper plate for the GANS harvesting process.  Copper is used because of its unique qualities and an economical way to get up and running, later you can experiment with other materials.
 
 ### Ingredients
   - copper plate 150x75x0.5mm
@@ -16,32 +16,31 @@ The purpose of this step is to prepare a copper plate for the GANS harvesting pr
   - spray bottle with fine spary nozzle
   - voltmeter
 
-
 ### Procedure
 * Hot caustic bath
-* Caustic steam bath
+* Caustic steaming
 * Drying
 
 #### Hot caustic bath
 This step prepares the copper for nanocaoting.  Simply place copper into a boiling bath (40-50C) of caustic soda for 30-40 minutes.
 
-Alternatively place a generous quantity dry caustic soda crystals into a plastic (ceramic or glass) container, completely covering the bottom.  Put a stainless steel mess over it so the copper doesnt touch the caustic crystals then place copper onto mesh. Pour in enough boiling water into the container so the copper is submersed and quickly replace the lid of the contatiner.  CAUTION hot water reacts violently with caustic.  Then leave to cool down (6-12 hours)
+Alternatively place a generous quantity dry caustic soda crystals into a plastic (ceramic or glass) container, completely covering the bottom.  Put a stainless steel mesh over it so the copper doesnt touch the caustic crystals then place copper onto mesh. Pour in enough boiling water into the container so the copper is submersed and quickly replace the lid of the contatiner.  CAUTION hot water reacts violently with caustic.  Then leave to cool down (6-12 hours)
 
 Don't throw away the liquid caustic, store it for later use.
 
 Note: 
-> Completely prepare the copper plate for the GANS production phase before continuing - prepare it so it can be suspended in liquid as you would an eletrolysis anode or cathode.
+> Completely prepare the copper plate for the GANS production phase before starting - prepare it so it can be suspended in liquid as you would an eletrolysis anode or cathode.
 
-#### Steaming
-This step nanocoats the copper by suspending the copper in the fumes of caustic liquid for 24 hours.
+#### Caustic Steaming
+This step nanocoats the copper by suspending the copper in the fumes of the caustic (NaOH) for 24-48 hours.
 
-Alternatively place a small quantity dry caustic soda crystals into a plastic (ceramic or glass) container, covering the bottom.  Put a stainless steel mess over it so the copper is kept out of the caustic liquid (once water is poured in) then place copper onto mesh or suspend from sides of container.  Pour in enough boiling water to cover the caustic crystals and quickly replace the lid of the contatiner.  CAUTION hot water reacts violently with caustic.  Then leave for 24 hours.
+Alternatively place a small quantity dry caustic soda crystals into a plastic (ceramic or glass) container, covering the bottom.  Put a stainless steel mess over it so the copper is kept out of the caustic liquid (once water is poured in) then place copper onto mesh or suspend from sides of container.  Pour in enough boiling water to cover the caustic crystals and quickly replace the lid of the contatiner.  CAUTION hot water reacts violently with caustic.  Then leave for 24-48 hours.
 
-Every 6 hours touch the copper with voltmeter electrodes (set to 200m DCV).  The reason for this step is to put a small charge across the copper so that the nanocoating all aligns in the same direction therefore apply the red/black electrodes in the same way each time.  For coils: black electrode to magnetic terminal and red electrode to gravetic terminal.
+Every 6 hours touch the copper with voltmeter electrodes (set to 200m DCV).  The reason for this step is to put a small charge across the copper so that the newly attached nanocoating aligns in the same direction. It is important to apply the red/black electrodes in the same way each time.  For coils: black electrode to magnetic post and red electrode to gravitic post.
 
 Don't throw away the liquid caustic, store it for later use.
 
-You may nancoat as many times as you like.  If the copper is for harvesting GANS then the more layers the better.
+You may nanocoat as many times as you like.  If the copper is for harvesting GANS then the more layers the better.
 
 Note: 
 > After the plate has been nanocoated you should NOT handle copper with bare hands or ruin coating with tools.  
@@ -55,7 +54,7 @@ Place a a small amount of cool caustic liquid in the bottom of your container an
 Every 6 hours touch the copper with voltmeter electrodes (set to 200m DCV).  Nanolayering is still occurring so keep this step in.
 
 Note: 
-> You can reset nanocoated copper by heating (gas burner for example) it until it just about turns red hot, then quickly dip in cold water.  The Nanocoating will drop off into the cold water.  You can restart the nancoating process from the beginning.  DONT THROW away the nanocoating that remains in the water, keep it for later use.
+> You can reset nanocoated copper by heating (gas burner for example) it until it just about turns red hot, then quickly dip in cold water.  The Nanocoating will drop off into the cold water.  You can restart the nanocoating process from the beginning.  DONT THROW away the nanocoating that remains in the water, keep it for later use.
 
 ## Summary
 
@@ -63,7 +62,7 @@ You can prepare several plates or just just keep repeating this process as and w
 
 The end goal is to make your first Power Unit.  Once it is up and running you will nolonger need to nanocoat with caustic soda, you can use your power unit to nanacoat the coppper (or other materials).
 
-The copper will have a deep black/blue colour all over.  There will be salt (Na) deposits on the plate which came from the caustic soda (NaOH), rinse this off with warm distilled water and air dry before using.
+The copper will have a deep black/blue colour all over.  There will be salt (Na) deposits on the plate which came from the caustic soda (NaOH), rinse this off with warm distilled water and then air dry before using.
 
 May the Plasma be with you.
 

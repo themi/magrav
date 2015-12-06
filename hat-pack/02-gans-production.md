@@ -10,24 +10,25 @@ The purpose of this step is to produce GANS.  GANS is needed to coat Mag/Grav co
 * 1.5v battery
 * air pump (fish tank air pump)
 * container for the process  
-* 50/60ml siringe
+* 50/60ml siringe (or turkey baster)
 * rinsing container
 * storage container
 
 ### Procedure
+* Setup
+* Harvest
+* Rinsing
+* Drying
 
-* Place in plates
-  - suspend each plate from opposite walls of container
+#### Setup
+Suspend the nanocoated copper and brass plates in a saline mix (15%-20%). Join each plate together with a electrical wire so that any current can flow between them.  Setup in the same way you would electrolysis or electroplating except with-out any current pushed between them. This proces is gradual and will take up to seven days to accumulate GANS.
 
-* Attach wires
+Alternatively connect a 1.5V 10-30A current in-bewteen the 2 plates, you will need to pump air into the saline solution otherwise the GANS will not be oxidised and thus be of a lower grade.
 
-* Join each wire to each other
+#### Harvest
+#### Rinsing
+#### Drying
 
-* Prepare and add saltwater.
-  - Make from distilled (demineralised) water and natural upprocessed salt.
-  - %15 (or 145 grams) of salt to 1 Ltr of water
-
-* run for 4-7 days
 
 #### faster production
 

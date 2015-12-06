@@ -1,4 +1,7 @@
 # BATCH 20151204-003
+## Mon 7 Dec 2015
+* 09:00 - Align (photo: 20151207-nanocoat)
+
 ## Sun 6 Dec 2015
 * 13:30 - Align nanocoating and caustic steam again
 
