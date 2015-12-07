@@ -15,66 +15,41 @@ The purpose of this step is to produce GANS.  GANS is needed to coat Mag/Grav co
 * storage container
 
 ### Procedure
-* Setup
-* Harvest
-* Rinsing
+* Setup and run
+* Harvest and Rinsing
 * Drying
 
-#### Setup
-Suspend the nanocoated copper and brass plates in a saline mix (15%-20%). Join each plate together with a electrical wire so that any current can flow between them.  Setup in the same way you would electrolysis or electroplating except with-out any current pushed between them. This proces is gradual and will take up to seven days to accumulate GANS.
+#### Setup and run
+Suspend the nanocoated copper and brass plates in a saline mix (15%-20%). Join each plate together with a electrical wire so that current can flow between them.  Setup in the same way you would electrolysis or electroplating with-out a current. This proces is gradual and will take up to seven days to accumulate GANS.
 
-Alternatively connect a 1.5V 10-30A current in-bewteen the 2 plates, you will need to pump air into the saline solution otherwise the GANS will not be oxidised and thus be of a lower grade.
+Alternatively connect a 1.5V 10-30A current in-bewteen the 2 plates, you will need to pump air into the saline solution otherwise the GANS will not be oxidised enough and thus be of a lower mag/grav strength.
 
-#### Harvest
-#### Rinsing
+The nancoated copper plate is considered the anode (+ve) and therefore the current's (+ve) terminal should be connected to it.  However reversing the connection will still yeild GANS.  Its the presence of the saline, air, copper and brass that produce the GANS not the direction of current, all the current does is speed up the process (hence the need for air pump).
+
+When using current, GANS production will cease within 24 hours, everything you have created upto this point will contribute directly to how long that time is.  You can reset and re-nanocoat the plates as required.
+
+#### Harvest and Rinsing
+Disconnect any wiring and Allow GANS to settle at the bottom of container.  Suck up the GANS with siringe and put into a rinsing container.  Or gently pour off the saltwater into a separate container.
+
+Save the saline/saltwater to use again.
+
+Top up the rinsing container with distilled water, agitate slightly, allow to settle and pour off excess water - this has salt in it so save it with the other saltwater.
+
+Rinse 2 or 3 times and store.  Store the GANS in its colloid form (suspended in water). 
+
 #### Drying
 
+Place GANS colloid in a shallow container and leave in the open air or put under a heat lamp.  
 
-#### faster production
+- For coating coils you need it to be the consistancy of thin paste.
 
-* connect a 1.5V source.
-  - Connect batteries (+) pole to the brass plate.
-  - Connect batteries (-) pole to the nanocoated copper plate.
-  - The current from battery is actually a bit on the high side, if you want to be perdantic you could install a resistor on this circut to regulate the current down to 15-30mA
+- For the GANS balls you need it to be the consistancy of a thick paste.
 
-* add air pump
-  - oxygen is important in the GANS process, GANS will be bright turquiose in colour when oxygen is present.
-  - GANS will be brown in colour when there is insufficent oxygen.
-  - when not using a battery the process is quite slow and oxygen is pulled from the air above the water.
-
-* run for 4-7 hours
-
-#### Harvest
-
-* Siringe the GANS 
-  - put the siringe tip into the GANS at the bottom of the container and extend the siringe to suck up the material.
-  - place into the rinsing container
-
-* let the GaNs settle
-
-* Siringe out the water
-  - remove the water from the rinsing container
-
-* Add distilled water
-  - now refill the rinsing container with distilled water
-
-* repeat rinsing 2-3 times.
-
-* dry the GANS
-  - place GANS into storage container
-  - leave lid off  for 2/3 days (place under a heat lamp to make it fry faster)
- 
-* Store it
-  - once GANS is the consitency of running paste, replace lid and store for later use.
-
-#### Go again
-
-Depending on the size of your plates you can rerun again 1 or 2 times.  When the water becomes unusually misty, then reset your setup. 
-
+- For capacitors you need it to be in powder form.  (or just soak your paper or cloth in GANS and allow that to dry completely)
 
 ## Summary
 
-You will need a min of 600ml+ of GANS before you start making your power unit, I recommend that you keep producing GANS right up to point where you complete your power unit to ensure you have sufficient. 
+You will need about of 500ml+ of GANS before you start making your power unit, I recommend that you keep producing GANS right up to point where you complete your power unit to ensure you have sufficient. 
 
 May the plasma be with you.
 

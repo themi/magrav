@@ -1,9 +1,10 @@
 # BATCH 20151204-003
 ## Mon 7 Dec 2015
 * 09:00 - Align (photo: 20151207-nanocoat)
+* 11:30 - Caustic steam
 
 ## Sun 6 Dec 2015
-* 13:30 - Align nanocoating and caustic steam again
+* 13:30 - Align nanocoating and caustic steam
 
 ## Sat 5 Dec 2015
 * 09:00 - the surface of the copper is rough and uneven, doesnt look very nice. If I had a gas burner I would reset and start again but, yeah.

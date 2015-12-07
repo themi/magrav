@@ -10,6 +10,9 @@
 #### Cathode
 > A cathode is an electrode through which conventional current flows out of a device.
 
+#### colloid
+> A colloid, in chemistry, is a substance in which one substance of microscopically dispersed insoluble particles is suspended throughout another substance.
+
 #### Magrav
 > Magnetic and gravitational fields (Magnetic referring to the plasma of magnetic fields created by a dynamic entity as for example this refers to the magnetic field of the earth)
 

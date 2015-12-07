@@ -54,7 +54,11 @@ Place a a small amount of cool caustic liquid in the bottom of your container an
 Every 6 hours touch the copper with voltmeter electrodes (set to 200m DCV).  Nanolayering is still occurring so keep this step in.
 
 Note: 
-> You can reset nanocoated copper by heating (gas burner for example) it until it just about turns red hot, then quickly dip in cold water.  The Nanocoating will drop off into the cold water.  You can restart the nanocoating process from the beginning.  DONT THROW away the nanocoating that remains in the water, keep it for later use.
+> You can reset caustic nanocoating on copper by heating (gas burner for example) it until it just about turns red hot, then quickly dip in cold water.  The Nanocoating will drop off into the cold water.  You can restart the nanocoating process from the beginning.  DONT THROW away the nanocoating that remains in the water, keep it for later use.
+
+#### Nanocoat by fire.
+
+An alternate way to nanocoat is with fire.  Use a gas torch and heat copper until it is just about to turn red hot.
 
 ## Summary
 
