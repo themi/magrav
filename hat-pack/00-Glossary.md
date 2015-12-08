@@ -43,5 +43,8 @@
 #### Side cutters
 > Pliers with cutting jaws at an angle to the handles to permit cutting off wires close to terminals.
 
+#### Mandrel
+> an object used to shape machined, or electroformed, work.  In this case a rod used for shaping the copper coils.
+
 #### Needle nose pliers
 > (also known as pointy-nose pliers, long-nose pliers, pinch-nose pliers or snipe-nose pliers) are both cutting and holding pliers used by artisans, jewelry designers, electricians, network engineers and other tradesmen to bend, re-position and snip wire
