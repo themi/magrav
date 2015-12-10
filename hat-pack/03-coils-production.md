@@ -3,12 +3,70 @@
 The purpose of this step is to construct the power unit coils and capactors.
 
 ### Ingredients
-* Copper wire (about 1kg) gauge 14 (1.5 - 1.6mm dia)
+* Bare copper wire (about 1kg) gauge 14 (1.5 - 1.6mm dia)
 * Pliers and sidecutters
-* Electric hand drill
+* Electric hand drill - optional
 * 5mm dia mandrel
 * 9mm dia mandrel
-
+* Materials for nanocaoting
+* GANS mix (CuO2, CO2)
 
 ### Process
+* Make coil winding device
+* Coils
+* Coil Winding
+* Capacitors
+
+
+#### Make coil winding device
+The simplist method is to use rod approx 200mm in length and hand wind the copper onto it.
+
+Alternately attach a rod to a electric hand drill but hand guide the copper onto the rod.
+
+Alternately you can construct a device that does it all for you - instructions not included.
+
+
+#### Coils
+
+The purpose of the coils is to generate plasma. The strength of which is determined by your GANS type and coil configuration/construction.
+
+Terminate ALL wires by turning it back onto itself.  From a plasma point of view, when you donot do this, its like leaving the tap open and thus drains out.
+
+A single coil set consists of a Gravitic (inner) coil and a Magnetic coil (outer).  Each one also has a second smaller coil inside of it, making a total of 4 coils.
+
+Also you will need 3 sets of the above, making a total of 12 individual coils.
+
+Qty | Set | Type | Rod OD (mm)| Turns | Coil Length (mm) | Stretched Coil Length (mm) | Length of wire (m)
+---- | ---- | ---- | ---- | ---- | ---- | ----
+3 | Outer | Gravitic | 9 | 126 | 189 | 252 | 3.5
+3 | Outer | Magnetic | 5 | 126 | 189 | 252 | 2.5
+3 | Inner | Gravitic | 9 | 81 | 122 | 173 | 2.5
+3 | Inner | Magnetic | 5 | 81 | 122 | 173 | 1.5
+
+* OD = Outer diamter
+* Turns = number of times to wind the copper wire around the rod
+* Coil length = the length of the coil tightly wound on the rod
+* Stretched Coil Length = length of coil wound on the rod including a small gap in between each turn
+* Length of Wire = is approximate amount of copper wire needed for this coil (in metres)
+
+> NOTE:  It is recommended that the inner coil sits comfortably inside the outer coil with the outer edge of the inner coil just touching the inside edge of the outer coil.  You could try a turn ratio of 144:90 (instead of my 126:81) since 144/90 = 1.6 the golden ratio.
+
+You will need at least 100mm of wire at both ends of the coils for connecting, except for the magnetic coils where you need 100mm at one end and 300mm at the other - see blueprints for explaination.
+
+#### Coil Winding
+
+The most important point to remember is that the direction of the coil winding should be consistant throughtout all coils, capacitors and connections.
+
+The recommended direction is counter clockwise.  Hold coil so that the length of it runs away from you (look down the tube) then follow the direction of the wire starting at the closest end.  The wire should flow away from you in an anti-clockwise direction.  Doesn't matter what end you look at - it will run the same way - go ahead, try it.
+
+How you get the wire to do that will depend entirely on what kind of rig you have setup to create the coils - experiment with your setup and figure it out.
+
+
+#### Capacitors
+The purpose of the capacitors is to ...
+
+Qty | Type | Rod OD (mm)| Turns 
+---- | ---- | ---- | ---- 
+4 | Gravitic | 5 | 18 
+4 | Magnetic | n/a | straight
 

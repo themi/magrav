@@ -1,4 +1,12 @@
 # BATCH 20151204-003
+## Wed 9 Dec 2015
+* 09:00 - Align
+* Store in container with a little cold caustic in the bottom
+
+
+## Tue 8 Dec 2015
+* 09:00 - Align then another caustic steam
+
 ## Mon 7 Dec 2015
 * 09:00 - Align (photo: 20151207-nanocoat)
 * 11:30 - Caustic steam

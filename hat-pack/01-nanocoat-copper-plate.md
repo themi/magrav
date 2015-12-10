@@ -24,12 +24,12 @@ The purpose of this step is to prepare a copper plate for the GANS harvesting pr
 #### Hot caustic bath
 This step prepares the copper for nanocaoting.  Simply place copper into a boiling bath (40-50C) of caustic soda for 30-40 minutes.
 
-Alternatively place a generous quantity dry caustic soda crystals into a plastic (ceramic or glass) container, completely covering the bottom.  Put a stainless steel mesh over it so the copper doesnt touch the caustic crystals then place copper onto mesh. Pour in enough boiling water into the container so the copper is submersed and quickly replace the lid of the contatiner.  CAUTION hot water reacts violently with caustic.  Then leave to cool down (6-12 hours)
+Alternatively place a generous quantity dry caustic soda crystals into a plastic (ceramic or glass) container, completely covering the bottom.  Put a stainless steel mesh over it so the copper doesnt touch the caustic crystals then place copper onto mesh. Pour in enough boiling water into the container so the copper is submersed and quickly replace the lid of the contatiner.  CAUTION hot water reacts violently with caustic.  Then leave to cool down (2-3 hours).
 
-Don't throw away the liquid caustic, store it for later use.
+Don't throw away the liquid caustic, store it for later use.  You may need to clean/filter the liquid first as the purpose is to remove organic material from the metals and that manifests as an oily residue.
 
 Note: 
-> Completely prepare the copper plate for the GANS production phase before starting - prepare it so it can be suspended in liquid as you would an eletrolysis anode or cathode.
+> Prepare/shape the copper plate for the GANS production phase before nanocoating - prepare it so it can be suspended in liquid as you would an eletrolysis anode or cathode.
 
 #### Caustic Steaming
 This step nanocoats the copper by suspending the copper in the fumes of the caustic (NaOH) for 24-48 hours.
@@ -47,9 +47,9 @@ Note:
 > Body oil has your personal Mag/Grav signature in it, allowing your body oil to get on nanocoating or GANS will yield unpredictable results.
 
 #### Drying
-This step is simply to dry the copper of any moisture.  This should be done very slowly, over a period of 24-36 hours. 
+This step is simply to dry the copper of any moisture.  This should be done very slowly, over a period of 36-48 hours. 
 
-Place a a small amount of cool caustic liquid in the bottom of your container and suspend the copper in the container with the lid slightly open.
+Place a a small amount of cold caustic liquid in the bottom of your container and suspend the copper in the container with the lid slightly open.
 
 Every 6 hours touch the copper with voltmeter electrodes (set to 200m DCV).  Nanolayering is still occurring so keep this step in.
 
@@ -58,7 +58,11 @@ Note:
 
 #### Nanocoat by fire.
 
-An alternate way to nanocoat is with fire.  Use a gas torch and heat copper until it is just about to turn red hot.
+An alternate way to nanocoat is with fire.  Use a gas torch and heat copper until it is just about to turn red hot then allow to cool on its own.  The nano coating will align in the direction you paint the heat over the copper, therefore using voltmeter is not necessary.
+
+This puts a layer of finely spaced nano-particles on the copper, the butane/propane gas facilates this process.  This method better suits coils and/or capacitors.  
+
+Plates, on the other, used for GANS production require several largley spaced nano-partilces and the caustic method facilitates this process.  The nano-particles detach from the copper and convert to GANS.
 
 ## Summary
 
