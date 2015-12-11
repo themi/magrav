@@ -16,6 +16,7 @@ The purpose of this step is to construct the power unit coils and capactors.
 * Coils
 * Coil Winding
 * Capacitors
+* Nano-coating
 
 
 #### Make coil winding device
@@ -49,7 +50,7 @@ Qty | Set | Type | Rod OD (mm)| Turns | Coil Length (mm) | Stretched Coil Length
 * Stretched Coil Length = length of coil wound on the rod including a small gap in between each turn
 * Length of Wire = is approximate amount of copper wire needed for this coil (in metres)
 
-> NOTE:  It is recommended that the inner coil sits comfortably inside the outer coil with the outer edge of the inner coil just touching the inside edge of the outer coil.  You could try a turn ratio of 144:90 (instead of my 126:81) since 144/90 = 1.6 the golden ratio.
+> NOTE:  It is recommended that the inner coil sits comfortably inside the outer coil with the outer edge of the inner coil just touching the inside edge of the outer coil.  You could try a Turns ratio of 144:90 (instead of my 126:81) since 144/90 = 1.6 exactly (the golden ratio).
 
 You will need at least 100mm of wire at both ends of the coils for connecting, except for the magnetic coils where you need 100mm at one end and 300mm at the other - see blueprints for explaination.
 
@@ -57,7 +58,7 @@ You will need at least 100mm of wire at both ends of the coils for connecting, e
 
 The most important point to remember is that the direction of the coil winding should be consistant throughtout all coils, capacitors and connections.
 
-The recommended direction is counter clockwise.  Hold coil so that the length of it runs away from you (look down the tube) then follow the direction of the wire starting at the closest end.  The wire should flow away from you in an anti-clockwise direction.  Doesn't matter what end you look at - it will run the same way - go ahead, try it.
+The recommended direction is counter clockwise.  Hold coil so that the length of it runs away from you (look down the tube) then follow the direction of the wire starting at the nearest end to you.  The wire should flow away from you in an anti-clockwise direction as you follow the coiled wire.  Doesn't matter what end you look at - it will run the same way - go ahead, try it.
 
 How you get the wire to do that will depend entirely on what kind of rig you have setup to create the coils - experiment with your setup and figure it out.
 
@@ -70,3 +71,13 @@ Qty | Type | Rod OD (mm)| Turns
 4 | Gravitic | 5 | 18 
 4 | Magnetic | n/a | straight
 
+
+#### Nano-coating
+
+The recommended method of nano-coating for coils is with a butane/propane hand torch.  Because industrial grade acetalene torches are too hot.
+
+
+
+#### Summary
+
+May the plasma be with you.
