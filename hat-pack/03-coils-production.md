@@ -29,7 +29,7 @@ Alternately you can construct a device that does it all for you - instructions n
 
 #### Coils
 
-The purpose of the coils is to generate plasma. The strength of which is determined by your GANS type and coil configuration/construction.
+The purpose of the coils is to produce plasma. The strength of which is determined by your GANS type and coil configuration/construction.
 
 Terminate ALL wires by turning it back onto itself.  From a plasma point of view, when you donot do this, its like leaving the tap open and thus drains out.
 

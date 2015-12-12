@@ -5,7 +5,7 @@ The purpose of this step is to produce CuO2/CO2 GANS mix.  GANS is needed to coa
 This instruction defines the anode as the nano-coated copper and the cathode is a brass plate - you can substitude the cathode for another material to make another kind of GANS.
 
 ### Ingredients
-* Nanocoated coppper plate
+* Nano-coated coppper plate
 * Brass plate (similar size to copper plate)
 * saltwater (or seawater)
 * Electrical wire
@@ -22,15 +22,15 @@ This instruction defines the anode as the nano-coated copper and the cathode is 
 * Drying
 
 #### Setup and run
-Suspend the nano-coated copper and brass plates in a saline mix (15%-20%). Join each plate together with a electrical wire so that current can flow between them.  Setup in the same way you would electrolysis or electroplating with-out a current. This proces is gradual and will take up to 7/14 days to produce all the GANS that it can produce.
+Suspend the nano-coated copper and brass plates in a saline mix (15%-20%). Join each plate together with a electrical wire to close the circuit.  Setup in the same way you would electrolysis or electroplating with-out a current. This process is gradual and will take up to 7/14 days to produce all the GANS that it can be produced.
 
-The GANS from a brass (Copper and Zinc) plate will be a very bright turqiose colour.  Note If its Brown/Orange then it was starved of oxygen during production.
+The GANS from a brass (Copper/Zinc alloy) plate will be a very bright turqiose colour.  Note If its Brown/Orange then it was starved of oxygen during production.
 
-__Alternatively__ connect a 1.5V 10-30A current in-bewteen the 2 plates, you will need to pump air into the saline solution otherwise the GANS will not be oxidised enough and thus be of a lower mag/grav strength.  Also you may need to add more resistence/resistors to get current down to 10-30mA.
+__Alternatively__ connect a 1.5V 10-30A current in-bewteen the 2 plates, you will need to pump air into the saline solution otherwise the GANS will not be oxidised enough and thus be of a lower mag/grav strength.  With a 1.5V battery you may need to add more resistence/resistors to get current down to 10-30mA.
 
-The nancoated copper plate is considered the anode (+ve) and using the electrolysis handbook the current's (+ve) terminal should be connected to it.  However reversing the connection will still yeild GANS.  Its the presence of the saline, air, copper and brass that produce the GANS not the direction of current, current makes it flow faster (hence the need for air pump).
+The nano-coated copper plate is the anode (+ve) and using the electrolysis handbook the battery's (+ve) terminal should be connected to it.  However reversing the connection will still yeild GANS.  Its the presence of the saline, air, copper and brass that produce the GANS not the direction of current, current makes it flow faster (hence the need for air pump).
 
-__Alternately__ connect a resistive object in between the plates (with no current).  Example - computer fan or LED light.  There wont be enough current to make the object work but this method works the same way to using current and it encourages the GANS production to occur quicker.
+__Alternately__ connect a resistive object in between the plates (with no current).  Example - computer fan or LED light.  There wont be enough current to make the object work but this method works the same way as above and it encourages the GANS production to occur.
 
 When using current or resistive methods, GANS production will be exhausted within 24/48 hours as opposed to 7/14 days.
 
@@ -57,7 +57,7 @@ Place GANS colloid in a shallow container and leave in the open air or put under
 
 You will need about of 100/200ml of GANS to complete your power unit. 
 
-Here are some examples of GANS you can try - mix it up, use multiple cathods, use other materials and expand this table.
+Here are some examples of GANS you can try - You are encouraged to try different combinations, use multiple cathodes, use other materials and expand this table.
 
 GANS | Anode | Cathode | Colour
 ----- | ------------- | ------------- | -----
