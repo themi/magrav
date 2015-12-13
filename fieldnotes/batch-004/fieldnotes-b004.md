@@ -1,8 +1,12 @@
 # BATCH 20151210-004
+## Mon 14 Dec 2015
+* 06:40 - Connect AA battery, current measured at 1.3V, pump air for 10min/2hrs
+* 07:00 - a single spray of cold (used) caustic inside the container storing the nc coper items 
 
 ## Sun 13 Dec 2015
 * 07:30 - Connect AA battery, current measured at 1.03V, pump air for 10min/2hrs
 * 08:30 - a single spray of cold (used) caustic inside the container storing the nc coper items 
+* 22:00 - disconnect current, clean silver plate 
 
 ## Sat 12 Dec 2015
 * 22:00 - Disconnect current - but still close circuit. (Photo: 2015-12-12-silver-disconnect)
