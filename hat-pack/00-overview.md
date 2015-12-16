@@ -1,5 +1,5 @@
 ## GOALS
-* Make a plasma powered vehicle for planet-wide and space travel
+* Space exploration for anyone is a real and common-place activity.
 
 ## PURPOSES
 * The human race no longer dependant on fossil based fuels to produce energy.
@@ -29,9 +29,10 @@
 * Trvelling in outer space is not a specialised activity and can be done by anyone very safely.
 
 ## STATISTICS
+* kilojoules of energy produced by plasma generators
 * Flight hours for plasma powered vehicles
 * Space expeditions conducted [by human race]
 * Light years travelled [by the human race]
 
 ## FINAL VALUABLE PRODUCT
-* A vehicle that is completely powered by plasma energy, can sustain and protect [human] life indefinately, and can utilise ambient plasma regardless of its origin.
+* A vehicle that is completely powered by plasma energy, can sustain life indefinately and can utilise ambient plasma regardless of its origin.
