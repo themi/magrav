@@ -22,20 +22,16 @@ The purpose of this step is to produce CuO2/CO2 GANS mix.  GANS is needed to coa
 #### Setup and run
 Suspend the nano-coated copper and brass plates in a saline mix (15%-20%). Join each plate together with a electrical wire to close the circuit.  Setup in the same way you would electrolysis or electroplating with-out a current. This process is gradual and will take up to 7/14 days to produce all the GANS that it can be produced.
 
-The GANS from a brass (Copper/Zinc alloy) plate will be a turqiose colour.  Note If its Brown/Orange then it was starved of oxygen during production.
-
-__Alternatively__ connect a resistive object in between the plates (with no current).  Example - computer fan or LED light.  There wont be enough current to make the object work but production of GANS will be quicker.
+The GANS from a brass (Copper/Zinc alloy) plate will be a turqiose colour.  Note If its muddy brown then try pumping air into the saline solution (the next time).
 
 __Alternatively__ connect a 1.5V 10-30A current in-bewteen the 2 plates, you may need to pump air into the saline solution otherwise the GANS will not be oxidised enough.
 
-The nano-coated copper plate is the cathode (-ve) however reversing the connection will still yeild GANS.  Its the presence of the saline, air, copper and brass that produce the GANS not the direction of current, the presence of current makes production quicker however the disadvantage is that you need to pump air into the saline mix to keep up with the increase rate of GANS production.
+The nano-coated copper plate is the cathode (-ve) however reversing the connection will still yeild GANS.  Its the presence of the salt, air, copper and brass that produce the GANS not the direction of current, the presence of current makes production quicker however the disadvantage is that you need to pump air into the saline mix to keep up with the increased rate of GANS production.
 
-When using the alternative methods, GANS production will cease a lot sooner than 7/14 days.  The time depends on the amount of current you use.  The resistive method is better than using current, especially if you cannot regulate the current down to below 30mA.
+When using the alternative methods, GANS production will cease a lot sooner than 7/14 days.  The time depends on the amount of current you use, size of plates, amount of liquid.
 
 #### Harvest and Rinsing
-Disconnect any wiring and Allow GANS to settle at the bottom of container.  Suck up the GANS with siringe and put into a rinsing container.  Or gently pour off the saltwater into a separate container.
-
-Save the saline/saltwater to use again (for same type metal/anode).
+When the colour of GANS being produced starts to change, its time to stop production.  Disconnect any wiring and Allow GANS to settle at the bottom of container.  Suck up the GANS with siringe and put into a rinsing container.  Or gently pour off the saltwater into a separate container.
 
 Top up the rinsing container with distilled water, agitate slightly, allow to settle and pour off excess water.
 
@@ -54,6 +50,8 @@ Place GANS colloid in a shallow container and leave in the open air or put under
 - If you are connecting your power unit to the mains the entire capacitor and the coils must be 'bone' dry to avoid shorting.
 
 ## Summary
+
+To reset plates: soak in white vinegar for 2-3 hours, rinse off with tap water and scrub plate with wire wool or fine grit sandpaper, then nano-coat the copper again. 
 
 You will need about of 100/200ml of GANS to complete your power unit. 
 

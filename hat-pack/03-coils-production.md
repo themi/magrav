@@ -74,9 +74,9 @@ Qty | Type | Rod OD (mm)| Turns
 
 #### Nano-coating
 
-The recommended method of nano-coating for coils is with a butane/propane hand torch.  Because industrial grade acetalene torches are too hot.
+The recommended method of nano-coating for coils is with a butane/propane hand torch.  Note: industrial grade acetalene torches are too hot. 
 
-
+Caustic nano-coating will work just fine. However to firmly affix the coating: after drying - store the coils in the container (it was made in, and liquid removed) with the lid firmly on.  Store for at least 5 days before use.
 
 #### Summary
 
