@@ -26,10 +26,10 @@
 ## IDEAL SCENE
 * Traveling around the planet is common-place and there are no considerations for time and resources required to undertake the journey.
 * Travelling to another star system is not a burden on the planets natural resources.
-* Trvelling in outer space is not a specialised activity and can be done by anyone very safely.
+* Travelling in outer space is not a specialised activity and can be done by anyone safely.
 
 ## STATISTICS
-* kilojoules of energy produced by plasma generators
+* Kilojoules of energy produced by plasma generators
 * Flight hours for plasma powered vehicles
 * Space expeditions conducted [by human race]
 * Light years travelled [by the human race]
