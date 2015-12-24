@@ -38,7 +38,7 @@ _Oxygen_. The more current you apply to the setup the more air you need to pump 
 _Cathode/Anode_. The nano-coated copper plate is the cathode (-ve) so connect the current's negative terminal to the nano-coated plate.   Note: Reversing the connection will still yeild GANS - its the presence of salt, oxygen, nano-coating and the anode that produce the GANS not the direction of current.
 
 #### Harvest and Rinsing
-If all is set correctly then the gans colour should be a bright turquoise/teal colour and when the colour being produced starts to change to a dirty orange colour, its time to stop.  Disconnect any wiring and Allow GANS to settle at the bottom of container.  Suck up the GANS with siringe and put into a rinsing container.  Or gently pour off the saltwater.
+If all is set correctly then the gans colour should be a blue/green or teal colour.  Inspect your nano-coated copper regularily, when the nano-coating has been stripped back to copper the setup is exhausted and needs reseting.    Disconnect any wiring and Allow GANS to settle at the bottom of container.  Suck up the GANS with siringe and put into a rinsing container.  Or gently pour off the saltwater.
 
 Top up the rinsing container with distilled water, agitate slightly, allow to settle and pour off excess water.
 
@@ -65,10 +65,10 @@ Here are some examples of GANS you can try - You are encouraged to try different
 GANS | Cathode | Anode | Colour | !
 ----- | ------- | ------ | ----- | ---
  | nc copper | titanium (Ti) | Pink |
-CuO2 | nc copper | copper (Cu) |  |
+CuO2 | nc copper | copper (Cu) | blue/green |
 CO2 | nc copper | zinc (Zn) | White |
- | nc copper | iron Oxide (Fe3O4) |  |
- | nc copper | silver (Ag) | Grey | Amber
+ | nc copper | iron Oxide (Fe3O4) | Red |
+ | nc copper | silver (Ag) | Grey | 
  | nc copper | brass (Cu+Zn) | Teal |
  | nc copper | shibuichi (Cu+Ag) |  |
 
