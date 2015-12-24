@@ -1,18 +1,23 @@
-## Copper
-
+## Sheets: Titanium, Copper, Brass, Silver, Gold
 ##### A&E Metals Pty Ltd
 * Phone: 1300 360 598
 * Web: https://www.aemetal.com.au
 * Email: sales@aemetal.com.au
 * Address: 68 Smith Street Marrickville  NSW 2204
 
+## Sheets: Shakudo (Copper, 4% Gold), Shibuichi (Copper, 25% Silver)
+##### A&E Metals Pty Ltd
+* Phone: 1300 360 598
+* Web: https://www.aemetal.com.au
+* Email: sales@aemetal.com.au
+* Address: 68 Smith Street Marrickville  NSW 2204
+
+## Copper wire
 ##### Badger Wire
 * Phone: 02 9644-2390
 * Web: http://badgerwire.com.au/
 * email: wiresales2144@badgerwire.com.au
 * Address: 43 Princes Rd (West) Auburn NSW 2144
-
-
 
 
 ## Steel Rods/Mandrels

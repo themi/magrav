@@ -6,10 +6,10 @@
 * The human race no longer dependant on corporations for their daily survival needs.
 
 ## POLICES
-* Any action or in-action must forward the survival of all eight dynamics.
+* Any action or in-action must forward the survival of all of your eight dynamics (Self, Sex/Family, Group, Human Race, Life, Matter/Energy/Space/Time, Spirit, Infinity).
 
 ## PLANS
-* Acquire appropriate funding to maintain research [indefinately].
+* Acquire appropriate funding to maintain research.
 * Research and Development laboratory setup and operational.
 * CONDITIONAL: Once products developed setup factories for production.
 
