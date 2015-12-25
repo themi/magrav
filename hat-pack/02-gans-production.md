@@ -31,7 +31,7 @@ Introducing a current will decrease production time however the following factor
 
 _Voltage_. I recommend 1.2 to 1.5VDC.  Keeping the voltage low makes it easier to control the other factors and I have found that 1.5VDC works well.
 
-_Current_. I recommend 30-50mA.  The amount of extra resistance to apply to your circutt will vary based on the size of your plates, the number of nano-coating layers, the length of your connecting wires and amount of salt water solution, salinaty and running time.  Using a variable resistor or better still a Laboratory Power Supply will help.
+_Current_. I recommend 30-50mA.  The amount of extra resistance to apply to your circutt will vary based on the size of your plates, the number of nano-coating layers, the length of your connecting wires and amount of salt water solution, salinity and running time.  Using a variable resistor or better still a Laboratory Power Supply is required.
 
 _Oxygen_. The more current you apply to the setup the more air you need to pump into the saltwater solution.  Without current the ambient air in the solution and on the surface is sufficient to supply the production process, however with current there will not be enough ambient oxygen to oxidise the GANS.  GANS will still be produced but without oxygen, and thus of a lower strength.
 
@@ -62,17 +62,21 @@ You will need about of 200/300ml of GANS to complete your power unit.
 
 Here are some examples of GANS you can try - You are encouraged to try different combinations, nano-coat the anode, use other materials, use multiple anodes (of different materials) and expand this table.
 
+The GANS colour will be the colour of the rust of the anode metal. 
+
 GANS | Cathode | Anode | Colour | !
 ----- | ------- | ------ | ----- | ---
- | nc copper | titanium (Ti) | Pink |
-CuO2 | nc copper | copper (Cu) | blue/green |
-CO2 | nc copper | zinc (Zn) | White |
- | nc copper | iron Oxide (Fe3O4) | Red |
- | nc copper | silver (Ag) | Grey | 
- | nc copper | brass (Cu+Zn) | Teal |
- | nc copper | shibuichi (Cu+Ag) |  |
+ | nc copper | titanium (Ti) | Pink | Pink
+CuO2 | nc copper | copper (Cu) | Black | Blue/Green
+CO2 | nc copper | zinc (Zn) | White | White
+ | nc copper | iron Oxide (Fe3O4) | Yellow | Red/Orange/Brown
+ | nc copper | silver (Ag) | Yellow | Red->Blue->Black
+ | nc copper | brass (Cu+Zn) | |
+ | nc copper | shibuichi (Cu+Ag) | |
 
 > nc = nano-coated
+> Colour = The colour of the first signs of rust (tarnish) of the metal
+> ! = The colour of fully developed rust of the metal
 
 GANS strength is related to its atomic weight, for example: C02 GANS has less strength than CuO2 GANS. On a 3 tier coil power unit - the GANS strength should decrease for each ascending coil.  Plasma naturally flows from the higher strength to lower strength and this is a key datum to creating perpetual flow.  
 
