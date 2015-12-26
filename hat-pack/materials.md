@@ -22,8 +22,6 @@
 * Brass Alloy
   - Cu (29)  Copper
   - Zn (30)  Zinc
-  - Sn (50)  Tin
-  - Ni (28)  Nikel
 * [A&E Metals](https://www.aemetal.com.au)
 
 #### Distilled water

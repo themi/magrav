@@ -32,6 +32,8 @@
 > c. SS5 Silver Steel Stubs Erasteel 1 metre length 5mm - $9.8/m  
 > d. SS9 Silver Steel Stubs Erasteel 1 metre length 9mm - $25.63/m  
 
+> e. SS5 Silver Steel Stubs Erasteel 1 metre length 5.5mm
+
 ## Set screw shaft collar
 
 ##### [Naismith Engineering & Manufacturing Co. Pty. Ltd.](http://www.naismith.com.au/)

@@ -3,7 +3,7 @@
 The purpose of this step is to construct/assemble a plasma power unit. 
 
 ### Ingredients
-* CuO2 and CO2 GANS balls
+* GANS balls
 * 3 x Coils sets
 * 4 x Plasma Capactors
 * Qty of nano-coated connection wires 

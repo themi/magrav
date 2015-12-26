@@ -3,15 +3,15 @@
 
 ## PURPOSES
 * The human race no longer dependant on fossil based fuels to produce energy.
-* The human race no longer dependant on corporations for their daily survival needs.
+* The human race no longer dependant on corporations for ones daily survival needs.
 
 ## POLICES
 * Any action or in-action must forward the survival of all of your eight dynamics (Self, Sex/Family, Group, Human Race, Life, Matter/Energy/Space/Time, Spirit, Infinity).
 
 ## PLANS
 * Acquire appropriate funding to maintain research.
-* Research and Development laboratory setup and operational.
-* CONDITIONAL: Once products developed setup factories for production.
+* Research and Development setup and operational.
+* CONDITIONAL: Once products developed setup for production.
 
 ## PROGRAMS
 * Understand plasma energy
