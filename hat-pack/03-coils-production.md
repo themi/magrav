@@ -22,7 +22,7 @@ The purpose of this step is to construct the power unit coils and capactors.
 #### Make coil winding device
 The simplist method is to use rod approx 200mm in length and hand wind the copper onto it.
 
-Alternately attach a rod to a electric hand drill but hand guide the copper onto the rod.
+Alternately attach a rod to a electric hand drill and guide the copper onto the rod by hand.
 
 Alternately you can construct a device that does it all for you - instructions not included.
 
@@ -64,12 +64,12 @@ How you get the wire to do that will depend entirely on what kind of rig you hav
 
 
 #### Capacitors
-The purpose of the capacitors is to ...
+The purpose of the capacitors is two fold: To store up plasma energy for your unit; and to provide a plasma feedback for your unit.  The purpose of feedback is to allow the unit to power itself and thus draw less from the source.
 
-Qty | Type | Rod OD (mm)| Turns 
----- | ---- | ---- | ---- 
-4 | Gravitic | 5 | 18 
-4 | Magnetic | n/a | straight
+Qty | Type | Rod OD (mm)| Turns primary | Turns feedback
+---- | ---- | ---- | ---- | ---
+4 | Gravitic | 5 | 18 | 9
+4 | Magnetic | n/a | straight | n/a
 
 
 #### Nano-coating
