@@ -29,7 +29,6 @@
 * Travelling in outer space is not a specialised activity and can be done by anyone safely.
 
 ## STATISTICS
-* Kilojoules of energy produced by plasma generators
 * Flight hours for plasma powered vehicles
 * Space expeditions conducted [by human race]
 * Light years travelled [by the human race]
