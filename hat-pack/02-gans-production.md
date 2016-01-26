@@ -54,6 +54,13 @@ Place GANS colloid in a shallow container and leave in the open air or put under
 
 - If you are connecting your power unit to the mains the entire capacitor and the coils must be 'bone' dry to avoid shorting.
 
+## Seawater (CO2) GANS
+
+Mix 1 litre seawater and about a tablespoon caustic soda, stir thoroughly and leave 2hrs. Thats it! Now rinse and dry as appropriate.
+
+Note: This is mostly CO2 GANS however seawater has many other trace elements and therefore other GANS type may be present.
+
+
 ## Summary
 
 You will need about 100-200ml of GANS to complete your power unit. 
