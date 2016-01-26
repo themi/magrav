@@ -21,7 +21,7 @@ The purpose of this step is to prepare a copper plate for the GANS harvesting pr
 * Drying
 
 #### De-oxidise
-New plates generally don't need this step.  Prep a bath of white vinegar a little baking soda and soak in  for 1-2 hours or as long as needed to get to bare copper.  Thoroughly rinse off vinegar with warm water. 
+New plates generally don't need this step.  Prep a bath of white vinegar overnight or as long as needed to get to bare copper.  Thoroughly rinse off vinegar with warm water. If you scrub the copper any discolouration will easily come off and be bright and shiny.  I havent tried CLR (Cacium, Lime, Rust) maybe thats better.
 
 #### Hot caustic bath
 This step removes any organic material and prepares the copper for nano-coating.  Simply place copper into a boiling bath (40-50C) of caustic soda for 20-30 minutes, or ...
@@ -34,11 +34,9 @@ Note:
 > To minimise handling of plates after they are nano-coated, prepare/shape the copper plate for the GANS production phase. Prepare it so it can be suspended in liquid as you would an eletrolysis anode/cathode.
 
 #### Caustic Steaming
-This step nanocoats the copper, by suspending the copper in the steam of the caustic (NaOH).
+This step nanocoats the copper, by suspending the copper in the hot steam of the caustic (NaOH).
 
 Place some dry caustic soda crystals into a plastic (ceramic or glass) container, lightly covering the bottom.  Put a stainless steel mesh over it so the copper is kept out of the caustic liquid (once water is poured in) then place copper onto mesh or suspend from sides of container.  Pour in enough boiling water to cover the caustic crystals and quickly replace the lid of the contatiner, then allow to sit for 48-72 hours.  CAUTION hot water reacts violently with caustic.
-
-Every 6 hours touch the copper with voltmeter electrodes (set to 200m or 2m DCV).  The reason for this step is to put a small charge across the copper so that the newly attached nano-coating aligns in the same direction. Apply the red/black electrodes in the same way each time.  I put the red electrode to the top or point where a wire will connect and the black electrode to the bottom or place on the mesh if the plates are touching the wire mesh.  Note: for coils, the black electrode to magnetic post and red electrode to gravitic post.
 
 Don't throw away the liquid caustic, store it for later use.
 
@@ -52,7 +50,7 @@ This step dries the nano-coated copper plates and seals the nano-coating.  This 
 
 Place a small amount of cold caustic liquid in the bottom of your container and suspend the copper in the container (not touching the liquid) with the lid slightly open.
 
-Every 6 hours continue to touch the copper with voltmeter electrodes (set to 200m DCV) to align the nanolayers.
+Every 6 hours touch the copper with voltmeter electrodes (set to 200m or 2m DCV).  The reason for this step is to put a small charge across the copper so that the newly attached nano-coating aligns in the same direction. Apply the red/black electrodes in the same way each time.  I put the red electrode to the top or point where a wire will connect and the black electrode to the bottom or place on the mesh if the plates are touching the wire mesh.  Note: for coils, the black electrode to magnetic post and red electrode to gravitic post.
 
 ## Summary
 The nano-coated copper will have a deep black/bluish colour.  There may be salt (Na) deposits on the plate which came from the caustic soda (NaOH), before use: rinse this off with distilled water and then air dry.

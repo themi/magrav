@@ -23,7 +23,7 @@ The purpose of this step is to produce CuO2+CO2 GANS.  This is needed to coat ma
 #### Setup and run
 Suspend the nano-coated copper and brass plates in a saline mix (15%-20%). Join each plate together with a electrical wire to close the circuit.  Setup in the same way you would electrolysis or electroplating with-out a current. This process is gradual and will take several days to produce all the GANS that can be produced with that setup.
 
-The GANS from copper or brass (Copper/Zinc alloy) will be a blue/green or teal colour.  Note If the colour is brown or orange it normaly means there was not enough oxygen present.
+The GANS from copper or brass (Copper/Zinc alloy) will be a blue/green or teal colour. 
 
 ##### Applying a current
 
@@ -50,15 +50,13 @@ Place GANS colloid in a shallow container and leave in the open air or put under
 
 - For coating coils you need it to be watery enough so you can pour it over the coils and the excess runs off quite freely.  Then allow coils to dry completely.
 
-- For the GANS (centre) balls you need it to be the consistancy of thick paste.
-
 - For capacitors you need it to be in powder form or soak your paper/cloth in wet GANS and allow it to dry off completely.
 
 - If you are connecting your power unit to the mains the entire capacitor and the coils must be 'bone' dry to avoid shorting.
 
 ## Summary
 
-You will need about of 200/300ml of GANS to complete your power unit. 
+You will need about 100-200ml of GANS to complete your power unit. 
 
 Here are some examples of GANS you can try - You are encouraged to try different combinations, nano-coat the anode, use other materials, use multiple anodes (of different materials) and expand this table.
 
