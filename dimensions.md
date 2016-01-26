@@ -29,34 +29,24 @@
 
 ## Capacitors
 
-* 27 coil
-  - 27 turns (Dia 8mm)
-  - length: 40.5 (54 with 0.5 gap)
+* Primary coil
+  - 18 turns on primary (OD 8mm)
+  - length: 32mm with a gap in between turns
 
-
-## GANS Ball
-* OD: 18mm
-
-## Mounting bolt
-* OD: 8mm
-
-
-
-
-55.075 + 27.538 = 82.613
-
-55.075 + 12 + 0.5 = 67.575
+* Feedback coil
+  - 9 turns on primary (OD 8mm)
+  - length: 17mm with a gap in between turns
 
 
 ## Formula Notes
 
-(t9 * (w + g)) / pi
+(t9 * (d + g)) / pi
 
 ##### Where:
 * t = turn constant
-* w = wire width
-* g = gap between individual coils
-
+* d = wire diameter
+* g = gap between turns
+* pi = 3.14
 
 12 - 1.5 = 10.5 / 5.25
 8 - 1.5 = 6.5 / 3.25
