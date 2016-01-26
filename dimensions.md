@@ -1,9 +1,5 @@
 ## Coils
-* Magnetic Set
-  - 81 turns (Dia 51.592356688 @ 1.5mm dia wire and 0.5 gap) R25.796178344 
-  - Magnetic-Gravitic coil OD: 8mm
-  - Magnetic-Magnetic coil OD: 12mm
-  - length: 121.5mm (162 with 0.5 gap)
+> Wire 1.5mm; Inner Mandrel 5mm; Outer Mandrel 9mm
 
 * Magnetic Set (enlarged gap to close distance to Gravitic coils)
   - 81 turns (Dia 55.074840764 @ 1.5mm dia wire and 0.635 gap) R27.537420382 
@@ -16,6 +12,20 @@
   - Gravitic-Gravitic coil OD: 8mm
   - Gravitic-Magnetic coil OD: 12mm
   - length: 189mm (252 with 0.5 gap)
+
+## Coils (Miniture)
+> Wire 0.5mm; Inner Mandrel 0.9mm; Outer Mandrel 2mm
+
+* Magnetic Set 
+  - 81 turns (Dia 19.347133758 @ 0.5mm dia wire and 0.25 gap) R9.673566879 
+  - Magnetic-Gravitic coil OD: 1.9
+  - Magnetic-Magnetic coil OD: 3
+  - length: 40.5 (60.75 with 0.25 gap)
+
+* Gravitic Set
+  - 126 turns (Dia 26.082802548 @ 0.5mm dia wire and 0.15 gap) R13.041401274
+  - 126 turns 
+  - length: 63.0 (81.9 with 0.15 gap)
 
 ## Capacitors
 
@@ -33,8 +43,9 @@
 
 
 
+55.075 + 27.538 = 82.613
 
-
+55.075 + 12 + 0.5 = 67.575
 
 
 ## Formula Notes
@@ -54,6 +65,7 @@
 
 * 126
   - ((14 * 9) * (1.5 + 0.5))/3.14 = 80.25477707 R40.127388535 
+  - (81 * (0.5 + 0.25))/3.14
 
 * 135
   - ((15 * 9) * (1.5 + 0.5))/3.14 = 85.987261146 R42.993630573 

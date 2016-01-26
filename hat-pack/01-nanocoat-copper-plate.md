@@ -4,9 +4,9 @@ The purpose of this step is to prepare a copper plate for the GANS harvesting pr
 
 ### Ingredients
   - copper plate 150x75x0.5mm
-  - caustic soda crystals
-  - boiling (distilled) water
-  - steam bath container (plastic, glass or ceramic) with lid
+  - caustic soda 
+  - boiling (tap) water
+  - steam bath 6ltr container (plastic, glass or ceramic) with lid
   - mesh/tray (chiken wire galvanised or stainless steel)
   - storage bottle for used caustic liquid
   - voltmeter
@@ -21,7 +21,7 @@ The purpose of this step is to prepare a copper plate for the GANS harvesting pr
 * Drying
 
 #### De-oxidise
-New plates generally don't need this step.  Place in white vinegar (cold) bath for 6-8 hours.  Thoroughly rinse off vinegar with cold water.  I scrubed them with wire wool to make it look shinny but not really necessary.
+New plates generally don't need this step.  Prep a bath of white vinegar a little baking soda and soak in  for 1-2 hours or as long as needed to get to bare copper.  Thoroughly rinse off vinegar with warm water. 
 
 #### Hot caustic bath
 This step removes any organic material and prepares the copper for nano-coating.  Simply place copper into a boiling bath (40-50C) of caustic soda for 20-30 minutes, or ...
