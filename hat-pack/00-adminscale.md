@@ -29,6 +29,7 @@
 * Travelling in outer space is no longer a specialised activity and can be done by anyone safely.
 
 ## STATISTICS
+* Number of plasma appliances created.
 * Flight hours for plasma powered vehicles
 * Space expeditions conducted [by human race]
 * Light years travelled [by the human race]
