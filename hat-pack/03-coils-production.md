@@ -71,6 +71,12 @@ Qty | Type | Rod OD (mm)| Turns primary | Turns feedback
 4 | Gravitic | 5 | 18 | 9
 4 | Magnetic | n/a | straight | n/a
 
+* Outer Magnetical
+  - outside coil to convey energy to the postive termal 
+* Outer plasma feedback
+  - outside coil to push plasma back on itself
+* inner (gravitaional) receives energy from the negative terminal
+  - composed (in order from inside to out) of: 1. copper wire, 2. plastice insulation, 3. baking paper coated with aluminium GANS. 
 
 #### Nano-coating
 
