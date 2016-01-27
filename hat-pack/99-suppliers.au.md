@@ -48,6 +48,14 @@
 > SC-7 $7.20  (7/16inch = 11.1125)
 
 
+## Potasium Hydroxide (KOH)
+
+##### [Lab Supply Australia](http://labsupply.com.au/ITEM%20HEADINGS/page%202.html)
+* Address: 1/551 GARDENERS RD, MASCOT
+* Phone: 612 8338 1233
+* Fax: 612 8338 0122
+
+
 
 ## Air pumps/hoses etc
 
