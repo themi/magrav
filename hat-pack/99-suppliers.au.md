@@ -48,6 +48,13 @@
 > SC-7 $7.20  (7/16inch = 11.1125)
 
 
+## Sulpur Powder
+
+#### [Enfield Produce - Pet and Garen Supplies](http://www.petandgarden.com.au/)
+* Address: 56 Coronation Pde Enfield NSW 2136
+* Phone: 02 97475713.
+
+
 ## Potasium Hydroxide (KOH)
 
 ##### [Lab Supply Australia](http://labsupply.com.au/ITEM%20HEADINGS/page%202.html)

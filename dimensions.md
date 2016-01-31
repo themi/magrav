@@ -37,6 +37,17 @@
   - 9 turns on primary (OD 8mm)
   - length: 17mm with a gap in between turns
 
+* Battery setup (OD 5mm)
+  - 1.5mm - gravitational wire
+  - 2.0mm - plastic insulator
+  - 0.9mm - Al GANS paper 
+  - 0.6mm - Aluminium foil (circumference 13.8mm)
+
+* Capacitor setup (OD 5mm)
+  - 1.5mm - gravitational wire
+  - 2.0mm - plastic insulator
+  - 1.5mm - Al GANS paper 
+
 
 ## Formula Notes
 
