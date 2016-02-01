@@ -13,6 +13,12 @@
 * Address: 68 Smith Street Marrickville  NSW 2204
 
 ## Copper wire
+##### A&E Metals Pty Ltd
+* Phone: 1300 360 598
+* Web: https://www.aemetal.com.au
+* Email: sales@aemetal.com.au
+* Address: 68 Smith Street Marrickville  NSW 2204
+
 ##### Badger Wire
 * Phone: 02 9644-2390
 * Web: http://badgerwire.com.au/
