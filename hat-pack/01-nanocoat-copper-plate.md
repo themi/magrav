@@ -21,7 +21,7 @@ The purpose of this step is to prepare a copper plate for the GANS harvesting pr
 * Drying
 
 #### De-oxidise
-New plates generally don't need this step.  Prep a bath of white vinegar overnight or as long as needed to get to bare copper.  Thoroughly rinse off vinegar with warm water. If you scrub the copper any discolouration will easily come off and be bright and shiny.  I havent tried CLR (Cacium, Lime, Rust) maybe thats better.
+New plates generally don't need this step.  Place in a bath of white vinegar overnight or as long as needed to get to bare copper. Thoroughly rinse off with water. If you scrub the copper any discolouration will easily come off and be bright and shiny.  I havent tried CLR (Cacium, Lime, Rust) maybe thats better.
 
 #### Hot caustic bath
 This step removes any organic material and prepares the copper for nano-coating.  Simply place copper into a boiling bath (40-50C) of caustic soda for 20-30 minutes, or ...

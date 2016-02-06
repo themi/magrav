@@ -1,13 +1,17 @@
 ## Coils
 > Wire 1.5mm; Inner Mandrel 5mm; Outer Mandrel 9mm
 
-* Magnetic Set (enlarged gap to close distance to Gravitic coils)
+* Sub Gravitic 
+  - 54 turns (Dia 34.394904459 @ 1.5mm dia wire and 0.5 gap) R17.19745223
+  - length: 81mm (108mm with 0.5 gap)
+
+* Gravitic Set (enlarged gap to close distance to Gravitic coils)
   - 81 turns (Dia 55.074840764 @ 1.5mm dia wire and 0.635 gap) R27.537420382 
   - Magnetic-Gravitic coil OD: 8mm
   - Magnetic-Magnetic coil OD: 12mm
   - length: 121.5mm (172.9mm with 0.639 gap)
 
-* Gravitic Set
+* Magnetic Set
   - 126 turns (Dia 80.25477707 @ 1.5mm dia wire and 0.5 gap) R40.127388535
   - Gravitic-Gravitic coil OD: 8mm
   - Gravitic-Magnetic coil OD: 12mm
