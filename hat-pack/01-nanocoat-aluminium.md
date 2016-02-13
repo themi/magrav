@@ -19,7 +19,7 @@ The purpose of this step is to prepare aluminium foil for use in plasma batterie
 ## Method 1: Hotwater/Caustic
 * 15g caustic/7.5 litres water (2g caustic/1 litre water)
 
-Mix caustic and water, place aluminium into liquid and leave for 30-40min
+Mix caustic and water, place aluminium into liquid and leave for 30-60min
 
 ## Method 2: Seawater/Caustic/Sulphur
 * 11.6l seawater/500g caustic/100g sulphur (1l seawater/ 43g Caustic/ 9g Sulphur)
