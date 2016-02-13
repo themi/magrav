@@ -52,33 +52,54 @@
   - 2.0mm - plastic insulator
   - 1.5mm - Al GANS paper 
 
+## Health/Pain Pen
+
+* Inner Coil: 54 Turns on 3mm mandrel
+* Outer Coil: 54 Turns on 5mm mandrel
+* GANS Capsule guide: 10mm (Inner Dia) x 35mm length
+* GANS capsule 6mm (Inner Dia) x 25mm length
+
+> Notes 54 turns with 0.7mm copper wire
+>  (9 * 6) * (0.7 + 0.35)  
+>  37.8mm (56.7mm with 0.35 gap)  
 
 ## Formula Notes
 
-(t9 * (d + g)) / pi
+diameter of torus: (t9 * (d + g)) / pi
+length of wire: (i + d/2) * pi * t
 
 ##### Where:
 * t = turn constant
 * d = wire diameter
 * g = gap between turns
 * pi = 3.14
+* i = inner diamter of coiled wired
 
 12 - 1.5 = 10.5 / 5.25
 8 - 1.5 = 6.5 / 3.25
 
-#### Variation on outer (mag) coils 
+#### Coil Dimensions
 
+ 
 * 126
-  - ((14 * 9) * (1.5 + 0.5))/3.14 = 80.25477707 R40.127388535 
-  - (81 * (0.5 + 0.25))/3.14
+  - ((14 * 9) * (1.5 + 0.5))/3.14 = 80.25477707 R40.127388535
+  - length of wire:
+    - outer grav: (5 + (1.5/2)) * 3.14 * 126 = 2274.93mm
+    - outer mag: (9 + (1.5/2)) * 3.14 * 126 = 3857.49mm
 
-* 135
-  - ((15 * 9) * (1.5 + 0.5))/3.14 = 85.987261146 R42.993630573 
-
-* 144
-  - ((16 * 9) * (1.5 + 0.5))/3.14 = 91.719745223 R45.859872612
-
-* 81
+* 81 
   - ((9 * 9) * (1.5 + 0.5))/3.14 = 51.592356688 R25.796178344
   - ((9 * 9) * (1.5 + 0.635))/3.14 = 55.074840764 R27.537420382
+  - length of wire:
+    - inner grav: (5 + (1.5/2)) * 3.14 * 81 = 1462.455mm
+    - inner mag: (9 + (1.5/2)) * 3.14 * 81 = 2479.815mm
+
+* Total length of wire: 10950.75mm + connections
+
+
+1.6mm 30cm  
+1.5mm 15m  
+1.0mm 29m  
+0.7mm 12m  
+
 

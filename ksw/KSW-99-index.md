@@ -36,7 +36,7 @@ mV | Body state
 
 #### t=2h07m0s
 
-Element |  | Molar Mass | | MagGrav mass 
+Element |  | Molar Mass | | MagGrav strength 
 ----------|----|--------|-------- | ----
 Plutonium | Pu | 238.049 | -40% | 
 Uranium   | U  | 238.029 | -40% | 
