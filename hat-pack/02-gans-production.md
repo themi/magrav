@@ -33,7 +33,7 @@ _Voltage_. I recommend 1.2 to 1.5VDC.  Keeping the voltage low makes it easier t
 
 _Current_. I recommend 30-50mA.  The amount of extra resistance to apply to your circutt will vary based on the size of your plates, the number of nano-coating layers, the length of your connecting wires and amount of salt water solution, salinity and running time.  Using a variable resistor or better still a Laboratory Power Supply is required.
 
-_Oxygen_. The more current you apply to the setup the more air you need to pump into the saltwater solution.  Without current the ambient air in the solution and on the surface is sufficient to supply the production process, however with current there will not be enough ambient oxygen to oxidise the GANS.  GANS will still be produced but without oxygen, and thus of a lower strength.
+_Oxygen_. The more current you apply to the setup the more air you need to pump into the saltwater solution.  Without current the ambient air in the solution and on the surface is sufficient to supply the production process, however with current there may not be enough ambient oxygen to oxidise the GANS.  GANS will still be produced but without oxygen, and thus of a lower strength.
 
 _Cathode/Anode_. The nano-coated copper plate is the cathode (-ve) so connect the current's negative terminal to the nano-coated plate.   Note: Reversing the connection will still yeild GANS - its the presence of salt, oxygen, nano-coating and the anode that produce the GANS not the direction of current.
 
@@ -60,6 +60,12 @@ Mix 1 litre seawater and about a tablespoon caustic soda, stir thoroughly and le
 
 Note: This is mostly CO2 GANS however seawater has many other trace elements and therefore other GANS type may be present.
 
+## Lead (Pb) GANS
+
+This is a "sink" GANS which drains plasma.  Ideal for inducing a flow in your power unit, use in a standard plasma capaictor and place in series after your load (may need a diaode after it to prevent back flow from plasma batteries battery).
+
+> CAUTION: The gas released during production of Pb GANS is poisonous!  
+> CAUTION: Handling pB GANS will drain plasma from you!  Have on you a container of CO2 GANS to nullify the effect while handling Pb GANS  
 
 ## Summary
 
@@ -83,8 +89,7 @@ CO2 | nc copper | zinc (Zn) | White | White
 > Colour = The colour of the first signs of rust (tarnish) of the metal
 > ! = The colour of fully developed rust of the metal
 
-GANS strength is related to its atomic weight, for example: C02 GANS has less strength than CuO2 GANS. On a 3 tier coil power unit - the GANS strength should decrease for each ascending coil.  Plasma naturally flows from the higher strength to lower strength and this is a key datum to creating perpetual flow.  
+GANS strength is related to its molecular weight, for example: C02 GANS has less strength than CuO2 GANS. On a 3 tier coil power unit - the GANS strength should decrease for each ascending coil.  Plasma naturally flows from the higher strength to lower strength and this is a key datum to creating perpetual flow.  
 
 May the plasma be with you.
-
 

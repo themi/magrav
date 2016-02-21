@@ -31,17 +31,13 @@
 ##### PRECISION METALS (NSW) PTY LTD
 * Phone: 02 9533 7722
 * Address: 35 Hearne St, Mortdale NSW 2223
-* Bank Acct: 012372 349515429
+* Bank Acct: 012372 349515429 
 
 > a. SS3 Silver Steel Stubs Erasteel 1 metre length 3mm - $6.21/m  
 > b. SS7 Silver Steel Stubs Erasteel 1 metre length 7mm - $16.56/m  
 > c. SS5 Silver Steel Stubs Erasteel 1 metre length 5mm - $9.8/m  
 > d. SS9 Silver Steel Stubs Erasteel 1 metre length 9mm - $25.63/m  
-
-###### WISHLIST
-> e. SS5 Silver Steel Stubs Erasteel 1 metre length 2.5mm
-> f. SS5 Silver Steel Stubs Erasteel 1 metre length 3.5mm
-> g. SS5 Silver Steel Stubs Erasteel 1 metre length 5.5mm
+> e. SS5 Silver Steel Stubs Erasteel 1 metre length 5.5mm (7/32') $13.20/m  
 
 ## Set screw shaft collar
 
