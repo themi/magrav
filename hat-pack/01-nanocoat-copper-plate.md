@@ -48,13 +48,15 @@ Note:
 > After the plate has been nano-coated avoid handling with bare hands or ruin coating with tools.  
 
 #### Drying
-This step dries the nano-coated copper plates and aligns the nano-coating.  This should be done very slowly, over a period of 48-72 hours. 
+This step dries and aligns the nano-coating. This should be done over a period of 48-72 hours. 
 
 Place a small amount of cold caustic liquid in the bottom of your container and suspend the copper in the container (not touching the liquid) with the lid slightly open.
 
-Every 6 hours touch the copper with voltmeter electrodes (set to 200m or 2m DCV).  The reason for this step is to put a small charge across the copper so that the newly attached nano-coating aligns in the same direction. Apply the red/black electrodes on the same points each time.  Put the red electrode to the top or point where a wire will connect and the black electrode to the bottom diagonally opposite or place on the mesh if the plates are touching the wire mesh.  Note: for coils, the black electrode to magnetical post and red electrode to gravitational post.
+Every 6 hours tap the copper with voltmeter electrodes (set to 200m or 2m DCV).  The reason for this step is to put a small charge across the copper so that the newly attached nano-coating re-aligns thus developing a more comprehensive nano structure. 
+
+Place the multi-meter's red electrode on the top left edge of the copper plate and then tap the other electrode on the diagonally opposite edge two-three times. 
 
 ## Summary
-The nano-coated copper will have a deep black/bluish colour.  There may be salt (Na) deposits on the plate which came from the caustic soda (NaOH), before use: rinse this off with distilled water and then air dry.
+The nano-coated copper will have a deep black colour.  There may be salt (Na) deposits on the plate which came from the caustic soda (NaOH), before use: rinse this off with distilled water and then air dry.
 
 May the Plasma be with you.

@@ -14,7 +14,16 @@
 > A colloid, in chemistry, is a substance in which one substance of microscopically dispersed insoluble particles is suspended throughout another substance.
 
 #### Magrav
-> Magnetic and gravitational fields (Magnetic referring to the plasma of magnetic fields created by a dynamic entity as for example this refers to the magnetic field of the earth)
+> Coined word, made from Magnetic and gravitational
+
+#### plasma energy
+> a physical phenomenon produced by the intereaction of energy between two objects.
+
+#### Magnetic 
+> that part of plasma energy that repulses and implies a (+)ve terminal.
+
+#### Gravitational
+> that part of plasma energy that attracts and implies a (-)ve terminal.
 
 #### Nano coating
 > A coating whose thickness is measured on the nano scale.  Nano coating is the result of an application where nano structures build a consistent network of molecules on a surface. 
