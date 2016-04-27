@@ -1,6 +1,6 @@
 ## Coils
 ##### Wire Diameter: 1.5
-> Wire 1.5mm; Inner Mandrel 5.5mm; Outer Mandrel 9mm
+> Wire 1.5mm; Inner Mandrel 5.5mm; Outer Mandrel 9mm (weight 16.66gm/meter)
 
 * 126
   - ((14 * 9) * (1.5 + 0.5))/3.14 = 80.25477707 R40.127388535
@@ -34,32 +34,35 @@
 
 
 ##### Wire Diameter: 1.0
-> Wire 1.0mm; Inner Mandrel 3mm; Outer Mandrel 5.5mm  
+> Wire 1.0mm; Inner Mandrel 3mm; Outer Mandrel 5.5mm (weight 7gm/meter)
 > Coils OD 5mm/7.5mm
 
 * 126
-  - ((14 * 9) * (1.0 + 0.3))/3.14 = 52.165605096 R26.082802548
+  - ((14 * 9) * (1.0 + 0.5))/3.14 = 60.191082803 R30.095541402
+  - ((14 * 9) * (1.0 + 0.4))/3.14 = 56.178343949 R28.089171974
   - length of wire:
     - outer grav: (3 + (1.0*2)) * 3.14 * 126 = 1978.2
     - outer mag: (5.5 + (1.0*2)) * 3.14 * 126 = 2967.3   
   - length of coil:
     - 126 * 1 = 126
-    - 126 * (1 + 0.3) = 163.8
+    - 126 * (1 + 0.5) = 189
+    - 126 * (1 + 0.4) = 176.4
 
 523.24 * 3.8 = 1988.3  
 523.24 * 5.7 = 2982.5  
 
 * 81 
-  - ((9 * 9) * (1.0 + 0.4))/3.14 = 36.114649682 R18.057324841
+  - ((9 * 9) * (1.0 + 0.5))/3.14 = 38.694267516 R19.347133758
   - length of wire:
     - inner grav: (3 + (1.0*2)) * 3.14 * 81 = 1271.7
     - inner mag: (5.5 + (1.0*2)) * 3.14 * 81 = 1907.55
   - length of coil:
     - 81 * 1 = 81
-    - 81 * (1 + 0.4) = 113.4
+    - 81 * (1 + 0.5) = 121.5
 
 523.24 * 2.4 = 1255.8  
 523.24 * 3.6 = 1883.7  
+63.68 - 15 - 46.20
 
 * Total length of wire: 1978.2+2967.3+1271.7+1907.55+200+163.8+113.4 = 8601.95
   - Power Unit: x3 = 25805.85
@@ -70,6 +73,8 @@
 
 ## Cores
 
+360/126 = 2.9
+360/81 = 4.4
 
 
 ## Capacitors
@@ -164,7 +169,7 @@ length of wire: (i + d/2) * pi * t
   - 2nd reactor: Forward 150mm then Left 90deg to 86.603 (H=173.20531)
   - 3rd reactor: Forward 150mm then right 90deg to 86.603 (H=173.20531)
   - 4th reactor: Forward 100mm then vertical 90deg to 141.42164 (H=173.20531)
-  - central position: Forward 100mm then vertical 90deg to 35.711
+  - central position: Forward 100mm then vertical 90deg to 35.711 f
 * Cores: 30 x 52
 * Gravitational cores radius: 100
 * Gravitational coil radius: 55.83247 (coil length 350.6279116 with gap)

@@ -32,12 +32,50 @@
 * Phone: 02 9533 7722
 * Address: 35 Hearne St, Mortdale NSW 2223
 * Bank Acct: 012372 349515429 
+* http://www.pretooling.com.au/products/silver-steel-size-listing.html
 
 > a. SS3 Silver Steel Stubs Erasteel 1 metre length 3mm - $6.21/m  
 > b. SS7 Silver Steel Stubs Erasteel 1 metre length 7mm - $16.56/m  
 > c. SS5 Silver Steel Stubs Erasteel 1 metre length 5mm - $9.8/m  
-> d. SS9 Silver Steel Stubs Erasteel 1 metre length 9mm - $25.63/m  
-> e. SS5 Silver Steel Stubs Erasteel 1 metre length 5.5mm (7/32') $13.20/m  
+> d. SS7/32" Silver Steel Stubs Erasteel 1 metre length 5.55625mm (7/32") $13.20/m  
+> e. SS9 Silver Steel Stubs Erasteel 1 metre length 9mm - $25.63/m  
+
+
+###### Range
+- 2.5mm
+- 3mm
+- 3.5mm
+- 4mm
+- 4.5mm
+- 4.7625 (3/16)
+- 5mm
+- 5.55625 (7/32)
+- 6mm
+- 6.35 (1/4)
+- 7mm
+- 7.14375 (9/32)
+- 7.5mm
+- 7.9375 (5/16)
+- 8mm
+- 8.73125 (11/32)
+- 9mm
+- 9.525 (3/8)
+- 10mm
+
+* Suitable for AWG18 (1.02mm) / SWG19 (1.016mm)
+  - SS3 and SS5.5
+  - SS5 and SS9/32
+
+* Suitable for AWG15 (1.45mm) / SWG17 (1.422mm)
+  - SS7 and SS10
+  - SS7/32 and SS11/32
+
+* Suitable for AWG14 (1.626mm) / SWG16 (1.63mm)
+  - SS1/4 and SS10
+  - SS7/32 and SS9
+
+
+
 
 ## Set screw shaft collar
 
@@ -46,6 +84,7 @@
 * Phone: (02) 9838 0050
 * email: nsw@naismith.com.au
 
+> MSC-5 $?  (5mm)
 > SC-5 $6.90  (5/16inch = 7.93mm)
 > SC-7 $7.20  (7/16inch = 11.1125)
 

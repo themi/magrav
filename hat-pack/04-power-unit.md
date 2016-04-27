@@ -1,4 +1,4 @@
-## Power unit
+## Hybrid Plasma/Electrical unit
 
 The purpose of this step is to construct/assemble a plasma power unit. 
 
