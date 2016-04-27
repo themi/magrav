@@ -28,7 +28,7 @@ The purpose of this step is to produce GANS.  This is needed to coat magnetic/gr
 #### 1. Configuration options
 
 GANS | Cathode | Medium | Plates joined by | Plate submerged | colour
---|--|--|--|--|--|--|--
+-----|---------|--------|------------------|-----------------|-------
 CO2 | Zinc |  Saltwater | LED | No | Off-White 
 ZnO | Zinc |  Saltwater | wire| Yes | White
 CH3 | Iron |  Saltwater | LED| No | Orange
@@ -39,12 +39,12 @@ In all cases the anode is nanocoated copper.
 #### 2. Setup and run
 To make CO2 GANS:
 
-a. Roll up a Zinc sheet and place into a testube.
-b. Fill a beaker with a 5% - 10% saltwater solution.
-c. Wrap the nancoated copper plate around the beaker to completely cover the outside.
-d. Place the test tube (with Zinc inside) into the saltwater solution.
-e. Connect the Zinc and copper with an LED.  (+)ve to the nanocoated copper, (-)ve to the zinc
-f. After several days a white substance will accumulate in the saltwater solution.
+a. Roll up a Zinc sheet and place into a testube.  
+b. Fill a beaker with a 5% - 10% saltwater solution.  
+c. Wrap the nancoated copper plate around the beaker to completely cover the outside.  
+d. Place the test tube (with Zinc inside) into the saltwater solution.  
+e. Connect the Zinc and copper with an LED.  (+)ve to the nanocoated copper, (-)ve to the zinc.  
+f. After several days a white substance will accumulate in the saltwater solution.  
 
 NOTES:  
 

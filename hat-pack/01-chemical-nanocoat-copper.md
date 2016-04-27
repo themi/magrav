@@ -59,7 +59,7 @@ b. Remove copper from caustic bath (from prev stage) and shake of as much liquid
 
 c. Suspend copper inside the steam container or put on a tray so the copper will be above the top of the liquid. 
 
-c. Pour in boiling water and replace the lid. Leave for 12 hrs.
+d. Pour in boiling water and replace the lid. Leave for 12 hrs.
 
 CAUTION: Caustic reacts violently with hot water!  
 
