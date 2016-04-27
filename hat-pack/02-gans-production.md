@@ -1,4 +1,4 @@
-## GANS harvesting
+## GANS Production
 
 GANS is a new state of matter; a molecule of a gas (GAs) which becomes Nano of itself and appears as Solid state of matter. GAs to Nano of Solid and to be called GANS for short.  
 
