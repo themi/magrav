@@ -1,6 +1,8 @@
 ## GANS harvesting
 
-The purpose of this step is to produce CuO2+CO2 GANS.  This is needed to coat magnetic/gravitic coils, construct capacitor coils, and serve as a central plasma power source for assembled mag/grav coil sets.
+GANS is a new state of matter; a molecule of a gas (GAs) which becomes Nano of itself and appears as Solid state of matter. GAs to Nano of Solid and to be called GANS for short.  
+
+The purpose of this step is to produce GANS.  This is needed to coat magnetic/gravitic coils, construct capacitor coils, and serve as a plasma power source.  
 
 ### Ingredients
 * Nano-coated coppper plate
@@ -16,55 +18,91 @@ The purpose of this step is to produce CuO2+CO2 GANS.  This is needed to coat ma
 * storage container
 
 ### Procedure
+* Configuration options
 * Setup and run
 * Harvest and Rinsing
 * Drying
+* Other GANS
 
-#### Setup and run
-Suspend the nano-coated copper and brass plates in a saline mix (15%-20%). Join each plate together with a electrical wire to close the circuit.  Setup in the same way you would electrolysis or electroplating with-out a current. This process is gradual and will take several days to produce all the GANS that can be produced with that setup.
 
-The GANS from copper or brass (Copper/Zinc alloy) will be a blue/green or teal colour. 
+#### 1. Configuration options
 
-##### Applying a current
+GANS | Cathode | Medium | Plates joined by | Plate submerged | colour
+--|--|--|--|--|--|--|--
+CO2 | Zinc |  Saltwater | LED | No | Off-White 
+ZnO | Zinc |  Saltwater | wire| Yes | White
+CH3 | Iron |  Saltwater | LED| No | Orange
+CuO | Copper | Saltwater | wire| Yes | Teal
 
-Introducing a current will decrease production time however the following factors need special attention: 
+In all cases the anode is nanocoated copper. 
 
-_Voltage_. I recommend 1.5VDC or less.  Keeping the voltage low makes it easier to control the other factors.
+#### 2. Setup and run
+To make CO2 GANS:
 
-_Current_. I recommend 30mA or less.  The amount of extra resistance to apply to your circut will vary based on the size of your plates, the number of nano-coating layers, the length of your connecting wires and amount of salt water solution, salinity and running time.  Using a Laboratory Power Supply is best.
+a. Roll up a Zinc sheet and place into a testube.
+b. Fill a beaker with a 5% - 10% saltwater solution.
+c. Wrap the nancoated copper plate around the beaker to completely cover the outside.
+d. Place the test tube (with Zinc inside) into the saltwater solution.
+e. Connect the Zinc and copper with an LED.  (+)ve to the nanocoated copper, (-)ve to the zinc
+f. After several days a white substance will accumulate in the saltwater solution.
 
-_Oxygen_. The more current you apply to the setup the more air you need to pump into the saltwater solution.  Without current the ambient air in the solution and on the surface is sufficient to supply the production process, however with current there may not be enough ambient oxygen to oxidise the GANS.  GANS will still be produced but without oxygen, and thus of a lower strength.
+NOTES:  
 
-#### Harvest and Rinsing
-If all is set correctly then the gans colour should be a blue/green or teal colour.  Inspect your nano-coated copper regularily, when the nano-coating has been stripped back to copper the setup is exhausted and needs reseting.    Disconnect any wiring and Allow GANS to settle at the bottom of container.  Suck up the GANS with siringe and put into a rinsing container.  Or gently pour off the saltwater.
+* Testube: 20mm OD x 120mm.  Alternative: a plastic bag.  
+* Beaker: Tall Form 250mm.  Alternative: coke bottle (cut off the neck).  
 
-Top up the rinsing container with distilled water, agitate slightly, allow to settle and pour off excess water.
 
-Rinse 2 or 3 times and store.  Store the GANS as colloid (suspended in water). 
+#### 3. Harvest and Rinsing
 
-#### Drying
+a. Remove the anode and cathode.  
+b. Allow GANS to settle at the bottom.  
+c. Pour off the saltwater (dont throw away, top-up and reuse).  
+d. Refill with distilled water.  
+e. Pour off the water.  
+f. Repeat step d. and e. 2-3 times.  
+g. Store GANS (in water) keep in a dark place (no sunlight).  
 
-Place GANS colloid in a shallow container and leave in the open air or put under a heat lamp.  
+NOTES:  
 
-- For coating coils you need it to be watery enough so you can pour it over the coils and the excess runs off quite freely.  Then allow coils to dry completely.
+* Reuse the saltwater solution - it has been coded with the CO2 GANS structure from previous run and making subsequent production will be easier.
 
-- For capacitors you need it to be in powder form or soak your paper/cloth in wet GANS and allow it to dry off completely.
+#### 4. Drying
 
-## Seawater (CO2) GANS
+Only dry the GANS prior to use and to the degree required its eventual application.
 
-Mix 1 litre seawater and about a tablespoon caustic soda, stir thoroughly and leave 2hrs. Thats it! Now rinse and dry as appropriate.
+a. Place GANS (colloid) in a shallow container.  
+b. Leave in the open air or put under a heat lamp.  
+c. Dry to powder form for making capacitors designed for hybrid plasma/electrical units.  
+d. Dry GANS to a paste consistancy for sphere reactors.  
+e. Dry GANS to a watery consistancy for coil coating.  
 
-Note: This is mostly CO2 GANS however seawater has many other trace elements and therefore many other GANS type will be present.
+#### 5. Other GANS
 
-## Lead (Pb) GANS
+##### Seawater (CO2) GANS
 
-This is a "sink" GANS which drains plasma.  Ideal for inducing a flow in your power unit, use in a standard plasma capaictor and place in series after your load (may need a diaode after it to prevent back flow from plasma batteries battery).
+a. Mix 1 litre seawater and a tablespoon caustic crystals.  
+b. Stir thoroughly and allow to settle.  
+c. Continue from the rinsing step.  
 
-> CAUTION: The gas released during production of Pb GANS is lethal!  
-> CAUTION: Handling pB GANS will drain plasma from you!  Have on you a container of CO2 GANS to nullify the effect while handling Pb GANS  
+NOTES: 
 
-## Plasma flows from stronger to weaker
-GANS strength is related to its molecular weight:
+* This is mostly CO2 GANS however seawater has many other trace elements and therefore many other GANS type will be present.
+
+#####  Lead (Pb) GANS
+
+a. Same as normal GANS using Leads as the cathode.
+
+NOTES:  
+
+* This is a "sink" GANS which drains plasma.  Ideal for inducing a flow in your power unit, use in a standard plasma capacitor and place in series after your load (may need a diaode after it to prevent back flow from plasma batteries battery).
+
+* CAUTION: The gas released during production of Pb GANS is lethal!  
+
+* CAUTION: Handling pB GANS will drain plasma from you!  Have on you a container of CO2 GANS to nullify the effect while handling Pb GANS  
+
+## Summary
+
+GANS Strength - Plasma flows from stronger GANS to weaker GANS and that strength is related to its molecular weight.
 
 Cathode |  | Molar Mass
 ----------|----|--------
@@ -85,21 +123,6 @@ Oxigen    | O  |  15.999
 Carbon    | C  |  12.010 
 Hydrogen  | H  |   1.008 
 
-## Summary
-
-The GANS required for a hybrid plasma/electrical unit:
-
-* CH3 GANS (strength: 18)
-  - both anode (nanocoated copper) and cathode (iron) isolated from the medium (saltwater) and ambient current is drained (connected with a LED or pc fan). Distance between anode and cathode is apporox 20mm.
-
-* CO2 GANS (strength: 44)
-  - both anode (nanocoated copper) and cathode (zinc) isolated from the medium (saltwater) and ambient current is drained (connected with a LED or pc fan). Distance between anode and cathode is approx 20mm.
-
-* CuO GANS (strength: 70)
-  - anode (nanocoated copper) is isolated from the medium (saltwater), cathode (copper) submerged in medium, connect with current (1.5v or less, 30mA or less). Distance between anode and cathode is approx 20mm.
-
-* PbO GANS (strength: 222)
-  - anode (nanocoated copper) is isolated from the medium (saltwater), cathode (lead) submerged in medium, connect with current (1.5v or less, 30mA or less). Distance between anode and cathode is approx 20mm.
 
 May the plasma be with you.
 
