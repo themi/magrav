@@ -68,7 +68,7 @@ NOTES:
 
 #### 4. Drying
 
-Only dry the GANS prior to use and to the degree required its eventual application.
+Only dry the GANS prior to use and to the degree required for its eventual application.
 
 a. Place GANS (colloid) in a shallow container.  
 b. Leave in the open air or put under a heat lamp.  
