@@ -64,7 +64,7 @@ g. Store GANS (in water) keep in a dark place (no sunlight).
 
 NOTES:  
 
-* Reuse the saltwater solution - it has been coded with the CO2 GANS structure from previous run and making subsequent production will be easier.
+* Reuse the saltwater solution - it has been coded with the CO2 GANS structure from previous run and making subsequent production quicker.
 
 #### 4. Drying
 
@@ -98,7 +98,7 @@ NOTES:
 
 * CAUTION: The gas released during production of Pb GANS is lethal!  
 
-* CAUTION: Handling pB GANS will drain plasma from you!  Have on you a container of CO2 GANS to nullify the effect while handling Pb GANS  
+* CAUTION: Handling pB GANS will drain plasma from you!  Have on you a container of CO2 GANS to mitigate the effect while handling Pb GANS  
 
 ## Summary
 

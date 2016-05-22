@@ -89,6 +89,12 @@
 > SC-7 $7.20  (7/16inch = 11.1125)
 
 
+## Custom-Blown Glassware
+
+* Address: 12 Mary St, St Peters NSW 2044
+* Phone: 02 9517 2916
+
+
 ## Sulpur Powder
 
 #### [Enfield Produce - Pet and Garen Supplies](http://www.petandgarden.com.au/)
