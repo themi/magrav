@@ -75,7 +75,14 @@
   - SS7/32 and SS9
 
 
+## Glass Beakers
 
+##### [Lab Supply Australia](http://labsupply.com.au)
+
+* Address: 1/551 GARDENERS RD, MASCOT
+* Phone: 612 8338 1233
+* Fax: 612 8338 0122
+* email: info@labsupply.com.au
 
 ## Set screw shaft collar
 
