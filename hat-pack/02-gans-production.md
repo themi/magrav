@@ -5,16 +5,14 @@ GANS is a new state of matter; a molecule of a gas (GAs) which becomes Nano of i
 The purpose of this step is to produce GANS.  This is needed to coat magnetic/gravitic coils, construct capacitor coils, and serve as a plasma power source.  
 
 ### Ingredients
-* Nano-coated coppper plate
-* Brass plate (similar size to copper plate)
+* Nano-coated coppper sheet/plate
+* Zinc/Copper/Iron sheet/plate (similar size to copper plate)
 * distilled/demineralised water
 * unprocessed salt
-* Electrical wire
-* 1.5v battery
-* air pump (fish tank air pump)
-* container for the process  
-* 50/60ml siringe (or turkey baster)
-* rinsing container
+* electrical wire
+* glass beaker 
+* 20mm test tube
+* separation container
 * storage container
 
 ### Procedure
@@ -27,7 +25,7 @@ The purpose of this step is to produce GANS.  This is needed to coat magnetic/gr
 
 #### 1. Configuration options
 
-GANS | Cathode | Medium | Plates joined by | Plate submerged | colour
+GANS | Cathode | Medium | Plates joined by | Cathode submerged | colour
 -----|---------|--------|------------------|-----------------|-------
 CO2 | Zinc |  Saltwater | LED | No | Off-White 
 ZnO | Zinc |  Saltwater | wire| Yes | White
@@ -39,28 +37,27 @@ In all cases the anode is nanocoated copper.
 #### 2. Setup and run
 To make CO2 GANS:
 
-a. Roll up a Zinc sheet and place into a testube.  
-b. Fill a beaker with a 5% - 10% saltwater solution.  
-c. Wrap the nancoated copper plate around the beaker to completely cover the outside.  
-d. Place the test tube (with Zinc inside) into the saltwater solution.  
-e. Connect the Zinc and copper with an LED.  (+)ve to the nanocoated copper, (-)ve to the zinc.  
-f. After several days a white substance will accumulate in the saltwater solution.  
+a. Roll up a nan-coated copper sheet and place into a testube. 
+b. Fill a beaker with a 5% - 10% saltwater solution.
+c. Wrap the Zinc sheet around the beaker to completely cover the outside.
+d. Place the test tube (with nano-coated copper inside) into the saltwater solution.
+e. Connect the Zinc and nano-coated copper with an LED. (+)ve to the nanocoated copper, (-)ve to the zinc  
+f. A white substance will accumulate in the saltwater solution, this may take a few days.  
 
 NOTES:  
 
 * Testube: 20mm OD x 120mm.  Alternative: a plastic bag.  
 * Beaker: Tall Form 250mm.  Alternative: coke bottle (cut off the neck).  
 
-
 #### 3. Harvest and Rinsing
 
-a. Remove the anode and cathode.  
+a. Pour the solution incl GANS into a separation container.  
 b. Allow GANS to settle at the bottom.  
-c. Pour off the saltwater (dont throw away, top-up and reuse).  
-d. Refill with distilled water.  
-e. Pour off the water.  
-f. Repeat step d. and e. 2-3 times.  
-g. Store GANS (in water) keep in a dark place (no sunlight).  
+c. Separate the saltwater from the GANS - save the saltwater for re-use.
+d. Refill with distilled water.
+e. Let GANS settle and separate the water from the GANS.
+f. Repeat step d. and e. 2-3 times.
+g. Store GANS as colloid (in the water) keep in a dark place (little to no sunlight).
 
 NOTES:  
 
@@ -74,15 +71,15 @@ a. Place GANS (colloid) in a shallow container.
 b. Leave in the open air or put under a heat lamp.  
 c. Dry to powder form for making capacitors designed for hybrid plasma/electrical units.  
 d. Dry GANS to a paste consistancy for sphere reactors.  
-e. Dry GANS to a watery consistancy for coil coating.  
+e. leave GANS in colloid coating coils.  
 
 #### 5. Other GANS
 
 ##### Seawater (CO2) GANS
 
-a. Mix 1 litre seawater and a tablespoon caustic crystals.  
-b. Stir thoroughly and allow to settle.  
-c. Continue from the rinsing step.  
+a. Mix 1 litre seawater and a tablespoon caustic crystals. 
+b. Stir thoroughly and allow to settle.
+c. Separate and rinse as detailed above.
 
 NOTES: 
 
