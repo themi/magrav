@@ -71,7 +71,7 @@ a. Place GANS (colloid) in a shallow container.
 b. Leave in the open air or put under a heat lamp.  
 c. Dry to powder form for making capacitors designed for hybrid plasma/electrical units.  
 d. Dry GANS to a paste consistancy for sphere reactors.  
-e. leave GANS in colloid coating coils.  
+e. Or, leave GANS in colloid for coating coils.  
 
 #### 5. Other GANS
 
