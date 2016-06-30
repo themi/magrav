@@ -37,10 +37,10 @@ In all cases the anode is nanocoated copper.
 #### 2. Setup and run
 To make CO2 GANS:
 
-a. Roll up a nan-coated copper sheet and place into a testube. 
-b. Fill a beaker with a 5% - 10% saltwater solution.
-c. Wrap the Zinc sheet around the beaker to completely cover the outside.
-d. Place the test tube (with nano-coated copper inside) into the saltwater solution.
+a. Roll up a nan-coated copper sheet and place into a testube.  
+b. Fill a beaker with a 5% - 10% saltwater solution.  
+c. Wrap the Zinc sheet around the beaker to completely cover the outside.  
+d. Place the test tube (with nano-coated copper inside) into the saltwater solution.  
 e. Connect the Zinc and nano-coated copper with an LED. (+)ve to the nanocoated copper, (-)ve to the zinc  
 f. A white substance will accumulate in the saltwater solution, this may take a few days.  
 
@@ -53,11 +53,11 @@ NOTES:
 
 a. Pour the solution incl GANS into a separation container.  
 b. Allow GANS to settle at the bottom.  
-c. Separate the saltwater from the GANS - save the saltwater for re-use.
-d. Refill with distilled water.
-e. Let GANS settle and separate the water from the GANS.
-f. Repeat step d. and e. 2-3 times.
-g. Store GANS as colloid (in the water) keep in a dark place (little to no sunlight).
+c. Separate the saltwater from the GANS - save the saltwater for re-use.  
+d. Refill with distilled water.  
+e. Let GANS settle and separate the water from the GANS.  
+f. Repeat step d. and e. 2-3 times.  
+g. Store GANS as colloid (in the water) keep in a dark place (little to no sunlight).  
 
 NOTES:  
 
@@ -77,9 +77,9 @@ e. leave GANS in colloid coating coils.
 
 ##### Seawater (CO2) GANS
 
-a. Mix 1 litre seawater and a tablespoon caustic crystals. 
-b. Stir thoroughly and allow to settle.
-c. Separate and rinse as detailed above.
+a. Mix 1 litre seawater and a tablespoon caustic crystals.  
+b. Stir thoroughly and allow to settle.  
+c. Separate and rinse as detailed above.  
 
 NOTES: 
 
