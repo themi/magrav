@@ -44,7 +44,7 @@ Coil | Mandrel size | Turns | Direction | Total wire length | Coil length w gap 
 Outer Magnetical | 9mm| 144  | clockwise | 5539.86432mm | 349.344mm | no
 Outer Gravitational | 5.5mm | 144 | anti-clockwise | 3957.30432mm | 349.344 | 349.344mm
 Inner Magnetical | 9mm | 81 | clockwise | 3116.17368mm | 196.506mm | no
-Inner Gravitational | 5.5mm | 81 | 5.5mm | anti-clockwise | 2225.98368mm | 196.506 | 196.506mm
+Inner Gravitational | 5.5mm | 81 | anti-clockwise | 2225.98368mm | 196.506 | 196.506mm
 
 Secure the mandrel in the drill chuck.
 
