@@ -1,3 +1,17 @@
+## [Rubber Stoppers #6](http://www.madaboutscience.com.au/store/rubber-stoppers-6-one-hole-10-pck-p-2400.html) 
+* Mad About Science
+* Phone: +61 3 9874 4397
+* Address: PO Box 247 Vermont VIC, 3133
+
+## Zinc flashing 0.7mm 6 meters roll
+#### Sydney Hardware
+* [Website:](http://www.sydneyhardware.com.au/)
+* Phone: +61 2 9557 7661
+* Address: 90-114 Princes HighwaySt Peters NSW 2044
+
+## Steel Sheet 
+[ebay item](http://www.ebay.com.au/itm/STEEL-SHEET-PLATE-380mm-X-300mm-X-0-6mm-/112043962962?hash=item1a16573252:g:apIAAOxy4dNS-sqw)
+
 ## Sheets: Titanium, Copper, Brass, Silver, Gold
 ##### A&E Metals Pty Ltd
 * Phone: 1300 360 598
@@ -83,6 +97,20 @@
 * Phone: 612 8338 1233
 * Fax: 612 8338 0122
 * email: info@labsupply.com.au
+
+## Plastic Balls
+
+#### (2-part clear plastic Balls without hanging loop)[http://www.ballkit.co.uk/PBCPPlayer.asp?ID=795266]
+
+* website: http://stores.ebay.com.au/packitinstore/
+
+
+* name: BALLKIT - Mtdéco Company
+* web: http://www.ballkit.co.uk
+* email: contact@ballkit.com
+* Adress: Z.A. Le Bussoy, 45290, VARENNES-CHANGY, FRANCE
+* Ph: +33 (0)2 38 94 10 80
+
 
 ## Set screw shaft collar
 

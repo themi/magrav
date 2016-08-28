@@ -1,3 +1,6 @@
+#### Capacitor
+> Something that can store electrical energy: [How it works](http://www.explainthatstuff.com/capacitors.html)
+
 #### Brass plate
 > Brass is a metal alloy made of copper and zinc.  Brass plates are used as cathodes in the production of GANS.
 
