@@ -1,3 +1,9 @@
+## [Vernier Constant Current Sensor](https://www.scientrific.com.au/product.php?p=9116)
+* Scientrific - Scient Education Resources
+* Address: SCIENTRIFIC PTY LTD PO BOX 420 YAMBA NSW 2464 AUSTRALIA
+* Phone: 61 2 6645 8111
+* email: info@scientrific.com.au
+
 ## [Rubber Stoppers #6](http://www.madaboutscience.com.au/store/rubber-stoppers-6-one-hole-10-pck-p-2400.html) 
 * Mad About Science
 * Phone: +61 3 9874 4397
