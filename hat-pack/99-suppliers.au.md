@@ -9,14 +9,11 @@
 * Phone: +61 3 9874 4397
 * Address: PO Box 247 Vermont VIC, 3133
 
-## Zinc flashing 0.7mm 6 meters roll
-#### Sydney Hardware
-* [Website:](http://www.sydneyhardware.com.au/)
-* Phone: +61 2 9557 7661
-* Address: 90-114 Princes HighwaySt Peters NSW 2044
+## [Zinc flashing 0.7mm 6 meters roll](http://www.sydneyhardware.com.au/store/zincflashing-07mm-6-meters-roll/)
 
-## Steel Sheet 
-[ebay item](http://www.ebay.com.au/itm/STEEL-SHEET-PLATE-380mm-X-300mm-X-0-6mm-/112043962962?hash=item1a16573252:g:apIAAOxy4dNS-sqw)
+## [Shim Stock Steel](http://www.ebay.com.au/itm/Champion-Shim-Stock-Steel-6-Sheets-25mm-010-CSS803-/271526202249?hash=item3f38390b89:g:bIoAAOSwq5lToleq)
+
+## [Proformix Liquid Tape - Clear](http://www.ebay.com.au/itm/351467568460?_trksid=p2057872.m2748.l2649&ssPageName=STRK%3AMEBIDX%3AIT)
 
 ## Sheets: Titanium, Copper, Brass, Silver, Gold
 ##### A&E Metals Pty Ltd
@@ -106,16 +103,27 @@
 
 ## Plastic Balls
 
+#### 4cm (x10 qty) Clear Acrylic Two Piece ROUND Baubles Balls christmas ornaments
+* name: Packitin store
+* web: http://stores.ebay.com.au/packitinstore/
+* Adress: 
+
+#### x10 Empty .68 Plastic Paintball / Effects / Defence Shell + FREE 10 Round Tube
+* name: UK Paintball LTD
+* shop: http://stores.ebay.com.au/Real-Action-Paintball-UK 
+* item: http://www.ebay.com.au/itm/391413357092?_trksid=p2057872.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT
+* Ph: 08452997853
+* email: ebay@rap4uk.com
+* Adress: Vantage Point Business Village, Unit CC, Mitcheldean, Gloucestershire, GL17 0DD, United Kingdom
+
 #### (2-part clear plastic Balls without hanging loop)[http://www.ballkit.co.uk/PBCPPlayer.asp?ID=795266]
-
-* website: http://stores.ebay.com.au/packitinstore/
-
-
 * name: BALLKIT - Mtdéco Company
 * web: http://www.ballkit.co.uk
 * email: contact@ballkit.com
 * Adress: Z.A. Le Bussoy, 45290, VARENNES-CHANGY, FRANCE
 * Ph: +33 (0)2 38 94 10 80
+
+
 
 
 ## Set screw shaft collar
